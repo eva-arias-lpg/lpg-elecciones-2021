@@ -1,0 +1,49 @@
+{
+  "index": [
+    {
+      "id": "1",
+      "name": "ARENA",
+      "fullname": "ALIANZA REPUBLICANA NACIONALISTA"
+    },
+    {
+      "id": "2",
+      "name": "CD",
+      "fullname": "CAMBIO DEMOCRÁTICO"
+    },
+    {
+      "id": "3",
+      "name": "FMLN",
+      "fullname": "FRENTE FARABUNDO MARTÍ PARA LA LIBERACIÓN NACIONAL"
+    },
+    {
+      "id": "4",
+      "name": "GANA",
+      "fullname": "GRAN ALIANZA POR LA UNIDAD NACIONAL"
+    },
+    {
+      "id": "6",
+      "name": "NT",
+      "fullname": "NUESTRO TIEMPO"
+    },
+    {
+      "id": "5",
+      "name": "NI",
+      "fullname": "NUEVAS IDEAS"
+    },
+    {
+      "id": "7",
+      "name": "PCN",
+      "fullname": "PARTIDO DE CONCERTACIÓN NACIONAL"
+    },
+    {
+      "id": "8",
+      "name": "PDC",
+      "fullname": "PARTIDO DEMÓCRATA CRISTIANO"
+    },
+    {
+      "id": "9",
+      "name": "VAMOS",
+      "fullname": "VAMOS"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^municipales/([0-9]+)$ municipales.php?id=$1
+RewriteRule ^municipales$ municipales.php
