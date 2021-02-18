@@ -11,8 +11,8 @@ let Asamblea = {
           <label class="label">PORCENTAJE DE ESCRUTINIO</label>
           <div class="control">
             <input
-              v-model="partidos.porcentaje_escrutinio"
-              :class="['input', partidos.porcentaje_escrutinio > 100 || partidos.porcentaje_escrutinio < 0 ? 'is-danger' : '']"
+              v-model="asamblea.porcentaje_escrutinio"
+              :class="['input', asamblea.porcentaje_escrutinio > 100 || asamblea.porcentaje_escrutinio < 0 ? 'is-danger' : '']"
               type="text"
               placeholder="Escaños obtenidos"
               style="max-width: 250px; min-width: 250px"
@@ -25,14 +25,14 @@ let Asamblea = {
           <div
             class="column m-4"
             style="max-width: 250px; min-width: 250px"
-            v-for="(value, name) in partidos.escanios"
+            v-for="(value, name) in asamblea.escanios"
           >
             <div class="field">
               <label class="label">{{ name }}</label>
               <div class="control">
                 <input
                   :id="name"
-                  v-model="partidos['escanios'][name]"
+                  v-model.number="asamblea['escanios'][name]"
                   class="input"
                   type="text"
                   placeholder="Escaños obtenidos"
@@ -50,30 +50,73 @@ let Asamblea = {
                 id="total_escanios"
                 readonly
                 :value="totalEscanios"
-                :class="['input is-static is-large', totalEscanios > 84 ? 'is-danger' : '']"
+                :class="['input is-static is-large', totalEscanios > 84 ? 'has-text-danger' : '']"
                 type="text"
                 placeholder="Total"
               />
             </div>
           </div>
         </div>
+        <article v-if="showUploadFailMsg" class="message is-danger">
+          <div class="message-body">
+            Ocurrió un error al subir los cambios.<br />
+            {{ uploadErrorMsg != '' ? uploadErrorMsg : 'Error inesperado.' }}
+          </div>
+        </article>
+
+        <article v-if="showUploadSuccessMsg" class="message is-success">
+          <div class="message-body">¡Se han subido los cambios con éxito!</div>
+        </article>
+
         <div class="is-flex is-justify-content-center">
-          <button @click.prevent="" class="button is-success is-large">Guardar</button>
+          <button
+            @click.prevent="uploadCambiosAsamblea"
+            :class="['button is-success is-large', isBtnLoading ? 'is-loading' : '' ]"
+            :disabled="totalEscanios > 84"
+          >
+            Guardar
+          </button>
         </div>
       </div>
     </div>
   `,
   data() {
     return {
-      partidos: { escanios: {}, porcentaje_escrutinio: 0 },
+      asamblea: { escanios: {}, porcentaje_escrutinio: 0 },
+      asamblea_original: { escanios: {}, porcentaje_escrutinio: 0 },
+      isBtnLoading: false,
+      showUploadSuccessMsg: false,
+      showUploadFailMsg: false,
+      uploadErrorMsg: "",
     };
   },
   computed: {
     totalEscanios() {
-      return Object.values(this.partidos.escanios).reduce((a, c) => +a + +c, 0);
+      return Object.values(this.asamblea.escanios).reduce((a, c) => +a + +c, 0);
     },
     apiURL() {
       return this.$root.apiBaseURL;
+    },
+    changesToAsamblea() {
+      let changes = { escanios: {} };
+      // Comparamos los cambios en el objeto "escanios"
+      for (let key of Object.keys(this.asamblea_original["escanios"])) {
+        if (
+          this.asamblea_original.escanios[key] !== this.asamblea.escanios[key]
+        ) {
+          changes.escanios[key] = this.asamblea.escanios[key];
+        }
+      }
+
+      // por ultimo, porcentaje escrutinio...
+      if (
+        this.asamblea_original.porcentaje_escrutinio !==
+        this.asamblea.porcentaje_escrutinio
+      ) {
+        changes.porcentaje_escrutinio = this.asamblea.porcentaje_escrutinio;
+      }
+
+      return changes;
     },
   },
   mounted() {
@@ -81,10 +124,18 @@ let Asamblea = {
       .get("https://lpg-elecciones.ngrok.io/api/asamblea")
       .then((response) => {
         console.log(response);
-        this.partidos.escanios = response.data.escanios
+        this.asamblea.escanios = response.data.escanios
           ? { ...response.data.escanios }
           : {};
-        this.partidos.porcentaje_escrutinio = response.data
+        this.asamblea.porcentaje_escrutinio = response.data
+          .porcentaje_escrutinio
+          ? response.data.porcentaje_escrutinio
+          : 0;
+
+        this.asamblea_original.escanios = response.data.escanios
+          ? { ...response.data.escanios }
+          : {};
+        this.asamblea_original.porcentaje_escrutinio = response.data
           .porcentaje_escrutinio
           ? response.data.porcentaje_escrutinio
           : 0;
@@ -92,7 +143,26 @@ let Asamblea = {
   },
   methods: {
     uploadCambiosAsamblea() {
-      axios.post(this.apiURL + "/asamblea", this.partidos);
+      this.isBtnLoading = true;
+      axios
+        .post(this.apiURL + "/asamblea", this.changesToAsamblea)
+        .then((response) => {
+          console.log(response);
+          this.isBtnLoading = false;
+
+          if (response.data && response.data.status) {
+            this.showUploadSuccessMsg = true;
+            this.asamblea = response.data.content;
+          } else if (response.data.hasOwnProperty("content")) {
+            this.showUploadFailMsg = true;
+            this.uploadErrorMsg = response.data.content;
+          }
+          setInterval(() => {
+            (this.showUploadFailMsg = false),
+              (this.showUploadSuccessMsg = false),
+              (this.uploadErrorMsg = "");
+          }, 15000);
+        });
     },
   },
 };

@@ -3,7 +3,7 @@
   "title": "AsambleaData",
   "type": "object",
   "additionalProperties": false,
-  "required": ["escanios", "porcentaje_escrutinio"],
+  "required": ["escanios"],
   "properties": {
     "escanios": {
       "$ref": "#/definitions/PartidosAdmitidos_def"
