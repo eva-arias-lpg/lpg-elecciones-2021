@@ -1,14 +1,19 @@
 {
-  "escanios": {
-    "NUEVAS IDEAS": 14,
-    "ARENA": 10,
-    "FMLN": 5,
-    "GANA": 5,
-    "CD": 1,
-    "NUESTRO TIEMPO": 1,
-    "PDC": 2,
-    "PCN": 4,
-    "VAMOS": 1
-  },
-  "porcentaje_escrutinio": 80
+    "escanios": {
+        "NUEVAS IDEAS": 15,
+        "ARENA": 10,
+        "FMLN": 8,
+        "GANA": 8,
+        "CD": 3,
+        "NUESTRO TIEMPO": 2,
+        "PDC": 1,
+        "PCN": 1,
+        "VAMOS": 1,
+        "INDEPENDIENTES": 1,
+        "PCN-DS": 3,
+        "ARENA-DS": 4,
+        "ARENA-PCN": 2,
+        "N-GANA": 4
+    },
+    "porcentaje_escrutinio": 30
 }

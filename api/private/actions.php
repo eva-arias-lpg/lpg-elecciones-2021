@@ -6,6 +6,17 @@ $action = isset($_GET['value']) ? $_GET['value'] : "";
 $upload = isset($_GET['upload']) ? $_GET['upload'] : ""; 
 $id = isset($_GET['id']) ? $_GET['id'] : "";
 
+function validateJSONRequestBody() {
+  // Recibimos un JSON, para actualizar los campos del documento de referencia.
+  // 1. Validamos que efectivamente sea un documento JSON.
+  $request_body = file_get_contents('php://input');
+  $json_decoded = json_decode($request_body);
+
+  if (is_null($json_decoded)) {
+    throw new Error("JSON no válido.");
+  } else return $json_decoded;
+}
+
 try {
   if ($action === "municipales" && !empty($id)) {
     // $json_decoded = json_decode($_POST) 
@@ -30,27 +41,32 @@ try {
       ]);
       
     } else {
-      // Recibimos un JSON, para actualizar los campos del documento de referencia.
-      // 1. Validamos que efectivamente sea un documento JSON.
-      $request_body = file_get_contents('php://input');
-      $json_decoded = json_decode($request_body);
-
-      if (is_null($json_decoded)) {
-        throw new Error("JSON no válido.");
-      } else {
-        require_once('classes/Municipales.php');
-        $municipal = new Municipales($id, $json_decoded);
-        $isUpdated = $municipal->updateDocument();
-        
-        echo json_encode([
-          "status" => $isUpdated,
-          "content" => $municipal->data
-        ]);
-      }
+      $json_decoded = validateJSONRequestBody();
+      
+      require_once('classes/Municipales.php');
+      $municipal = new Municipales($id, $json_decoded);
+      $isUpdated = $municipal->updateDocument();
+      
+      echo json_encode([
+        "status" => $isUpdated,
+        "content" => $municipal->data
+      ]);
     }
     // $data = new Municipales('{ "departamento": "San Salvador", "ganador": { "partido": "NT" } }');
   } else if ($action === "asamblea") {
+    $json_decoded = validateJSONRequestBody();
 
+    require_once('classes/Asamblea.php');
+    $asamblea = new Asamblea($json_decoded);
+
+    if ($asamblea->isEscaniosSumValid()) {
+      $isUpdated = $asamblea->updateDocument();
+
+      echo json_encode([
+        "status" => $isUpdated,
+        "content" => $asamblea->data
+      ]);
+    }
   }
 
 } catch (Throwable $e) {

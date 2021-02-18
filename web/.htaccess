@@ -2,7 +2,9 @@ Options +FollowSymLinks
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  RewriteRule ^index$ index.html [L]
-  RewriteRule ^asamblea$ asamblea.php [L]
-  RewriteRule ^municipales$ municipales.php [L]
+  RewriteBase /web
+  RewriteRule ^web/index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /web/index.html [L]
 </IfModule>

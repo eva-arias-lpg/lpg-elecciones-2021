@@ -12,7 +12,8 @@
 
   <!-- VueJS -->
   <!-- Dev -->
-  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0/dist/vue.js"></script>
+  <script src="https://unpkg.com/vue-router@2.0.0"></script>
   <!-- Produccion -->
   <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script> -->
 
@@ -29,9 +30,12 @@
 
 </head>
 
-<body>
-  <div id="app" class="container content">
-    {{ departamentos }}
+<body class="has-background-white-ter" style="height: 100vh">
+  <div id="app" class="content">
+    <Navigation></Navigation>
+    <div class="container mt-6">
+      <router-view></router-view>
+    </div>
   </div>
 
   <style>
@@ -41,6 +45,59 @@
   </style>
 </body>
 
-<script src="js/index.js"></script>
+<script src="components/navigation.vue.js"></script>
+<script src="components/welcome.vue.js"></script>
+<script src="components/asamblea.vue.js"></script>
+
+<script>
+  window.addEventListener("load", function () {
+    Vue.component('Welcome', Welcome);
+    const routes = [
+      {
+        path: "/web",
+        component: Welcome,
+      },
+      {
+        path: "/web/asamblea",
+        component: Asamblea
+      }
+    ];
+
+    const router = new VueRouter({
+      routes: routes,
+      mode: "history",
+      base: "/",
+    });
+
+    new Vue({
+      el: "#app",
+      router: router,
+      components: {
+        Navigation: Navigation,
+      },
+      data: {
+        dptoData: {},
+        apiBaseURL: "http://lpg-elecciones.ngrok.io/api/private"
+      },
+      computed: {
+        departamentos() {
+          return Object.keys(this.dptoData);
+        },
+      },
+      mounted() {
+        axios
+          .get("https://lpg-elecciones.ngrok.io/api/departamentos")
+          .then(
+            (response) =>
+            (this.dptoData =
+              response.data && response.data.status
+                ? response.data.content
+                : {})
+          );
+      },
+      methods: {},
+    });
+  });
+</script>
 
 </html>

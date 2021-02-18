@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "title": "AsambleaData",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["escanios", "porcentaje_escrutinio"],
+  "properties": {
+    "escanios": {
+      "$ref": "#/definitions/PartidosAdmitidos_def"
+    },
+    "porcentaje_escrutinio": {
+      "type": "number",
+      "maximum": 100,
+      "minimum": 0
+    }
+  },
+  "definitions": {
+    "PartidosAdmitidos_def": {
+      "type": "object",
+      "properties": {
+        "NUEVAS IDEAS": { "type": "number" },
+        "ARENA": { "type": "number" },
+        "FMLN": { "type": "number" },
+        "GANA": { "type": "number" },
+        "CD": { "type": "number" },
+        "NUESTRO TIEMPO": { "type": "number" },
+        "PDC": { "type": "number" },
+        "PCN": { "type": "number" },
+        "VAMOS": { "type": "number" },
+        "INDEPENDIENTES": { "type": "number" },
+        "PCN-DS": { "type": "number" },
+        "ARENA-DS": { "type": "number" },
+        "ARENA-PCN": { "type": "number" },
+        "N-GANA": { "type": "number" }
+      }
+    }
+  }
+}

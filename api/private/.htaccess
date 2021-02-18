@@ -7,3 +7,5 @@ RewriteEngine on
 
 RewriteRule ^municipales/([0-9]+)$ actions.php?value=municipales&id=$1 [L]
 RewriteRule ^municipales/([0-9]+)/file$ actions.php?value=municipales&id=$1&upload=file [L]
+
+RewriteRule ^asamblea$ actions.php?value=asamblea [L]
