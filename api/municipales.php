@@ -1,3 +1,35 @@
 <?php
+header('Content-Type: application/json;charset=utf-8');
 
-$idMunicipio = $_GET['id'];
+$idMunicipio = isset($_GET['id']) ? $_GET['id'] : false;
+error_reporting(0);
+
+if ($idMunicipio) {
+  $json_filename = "documents/$idMunicipio.json";
+  $json_file = file_exists($json_filename) ? file_get_contents($json_filename) : false;
+
+  if ($json_file) {
+    header("Location: ../$json_filename");
+  } else {
+    http_response_code(404);
+    echo json_encode([
+      "status" => false,
+      "content" => "No data."
+    ]);
+  }
+
+
+} else {
+  $reference = file_exists('static/municipios.json') ? file_get_contents('static/municipios.json') : '{ "index": [] }';
+
+  $json = json_decode($reference, true);
+  if (isset($json["index"]) && count($json["index"]) > 0) {
+    header('Location: static/municipios.json');
+  } else {
+    http_response_code(500);
+    echo json_encode([
+      "status" => false,
+      "content" => "Hubo un problema con el archivo JSON"
+    ]);
+  }
+}

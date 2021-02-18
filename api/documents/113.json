@@ -1,0 +1,11 @@
+{
+    "departamento": "La Paz",
+    "municipio": "Tapalhuaca",
+    "img_municipio": "static\/images\/municipios\/LA PAZ\/tapalhuaca_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

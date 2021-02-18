@@ -1,0 +1,11 @@
+{
+    "departamento": "Santa Ana",
+    "municipio": "San Sebasti\u00e1n Salitrillo",
+    "img_municipio": "static\/images\/municipios\/SANTA ANA\/sansebastiansalitrillo_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

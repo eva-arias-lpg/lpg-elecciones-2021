@@ -1,0 +1,11 @@
+{
+    "departamento": "Usulut\u00e1n",
+    "municipio": "Mercedes Uma\u00f1a",
+    "img_municipio": "static\/images\/municipios\/USULUTAN\/mercedesumana_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

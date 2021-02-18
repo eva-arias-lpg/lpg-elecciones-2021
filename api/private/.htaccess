@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+
+Header add Access-Control-Allow-Origin "*"
+Header add Access-Control-Allow-Methods: "GET,POST,DELETE,PUT"
+
+RewriteEngine on
+
+RewriteRule ^municipales/([0-9]+)$ actions.php?value=municipales&id=$1 [L]
+RewriteRule ^municipales/([0-9]+)/file$ actions.php?value=municipales&id=$1&upload=file [L]

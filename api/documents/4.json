@@ -1,0 +1,11 @@
+{
+    "departamento": "Ahuachap\u00e1n",
+    "municipio": "Concepci\u00f3n de Ataco",
+    "img_municipio": "static\/images\/municipios\/AHUACHAPAN\/concepciondeataco_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

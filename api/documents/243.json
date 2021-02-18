@@ -1,0 +1,11 @@
+{
+    "departamento": "Usulut\u00e1n",
+    "municipio": "Concepci\u00f3n Batres",
+    "img_municipio": "static\/images\/municipios\/USULUTAN\/concepcionbatres_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "departamento": "Sonsonate",
+    "municipio": "San Juli\u00e1n",
+    "img_municipio": "static\/images\/municipios\/SONSONATE\/sanjulian_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

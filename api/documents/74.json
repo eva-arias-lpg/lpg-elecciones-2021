@@ -1,0 +1,11 @@
+{
+    "departamento": "La Libertad",
+    "municipio": "Col\u00f3n",
+    "img_municipio": "static\/images\/municipios\/LA LIBERTAD\/colon_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

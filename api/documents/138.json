@@ -1,0 +1,11 @@
+{
+    "departamento": "Moraz\u00e1n",
+    "municipio": "Delicias de Concepci\u00f3n",
+    "img_municipio": "static\/images\/municipios\/MORAZAN\/deliciasdeconcepcion_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

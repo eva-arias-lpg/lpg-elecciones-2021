@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "title": "MunicipalesGanador",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "partido": {
+      "$ref": "#/definitions/StringOrNull_Def"
+    },
+    "img_partido": {
+      "$ref": "#/definitions/StringOrNull_Def"
+    },
+    "candidato": {
+      "$ref": "#/definitions/StringOrNull_Def"
+    },
+    "id_partido": {
+      "$ref": "#/definitions/NumberOrNull_Def"
+    }
+  },
+  "definitions": {
+    "StringOrNull_Def": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "NumberOrNull_Def": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "departamento": "Sonsonate",
+    "municipio": "Nahuizalco",
+    "img_municipio": "static\/images\/municipios\/SONSONATE\/nahuizalco_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

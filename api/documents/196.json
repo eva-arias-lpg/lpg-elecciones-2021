@@ -1,0 +1,11 @@
+{
+    "departamento": "San Salvador",
+    "municipio": "Soyapango",
+    "img_municipio": "static\/images\/municipios\/SAN SALVADOR\/soyapango_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

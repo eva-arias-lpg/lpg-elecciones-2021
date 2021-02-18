@@ -1,0 +1,11 @@
+{
+    "departamento": "Ahuachap\u00e1n",
+    "municipio": "San Francisco Men\u00e9ndez",
+    "img_municipio": "static\/images\/municipios\/AHUACHAPAN\/sanfranciscomenendez_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

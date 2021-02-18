@@ -1,5 +1,16 @@
 Options +FollowSymLinks
+
+Header add Access-Control-Allow-Origin "*"
+Header add Access-Control-Allow-Methods: "GET,POST,DELETE,PUT"
+
 RewriteEngine on
 
+RewriteRule ^asamblea$ asamblea.php
+
 RewriteRule ^municipales/([0-9]+)$ municipales.php?id=$1
-RewriteRule ^municipales$ municipales.php
+RewriteRule ^municipales/?$ municipales.php
+
+RewriteRule ^departamentos/([0-9]+)$ departamento.php?id=$1
+RewriteRule ^departamentos/?$ departamento.php
+
+RewriteRule ^documentos/()/([0-9]+)$ documentos.php?id=$1

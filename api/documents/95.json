@@ -1,0 +1,11 @@
+{
+    "departamento": "La Paz",
+    "municipio": "Jerusal\u00e9n",
+    "img_municipio": "static\/images\/municipios\/LA PAZ\/jerusalen_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}
