@@ -1,0 +1,37 @@
+{
+  "id": 82,
+  "departamento": "La Libertad",
+  "municipio": "Quezaltepeque",
+  "img_municipio": "static/images/municipios/LA%20LIBERTAD/quezaltepeque_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "NUEVAS IDEAS": {
+      "img_bandera": "/resources/banderas/NI_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "PCN": {
+      "img_bandera": "/resources/banderas/PCN_flag.svg"
+    },
+    "GANA": {
+      "img_bandera": "/resources/banderas/GANA_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
+    }
+  }
+}

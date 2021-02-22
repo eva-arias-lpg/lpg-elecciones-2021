@@ -22,7 +22,7 @@ foreach ($municipios["index"] as $key => $value) {
   $departamento = $value["departamento"];
   $municipio = $value["municipio"];
   $departamento_uc = strtoupper(replaceAccentOnVowels($departamento));
-  $municipio_filename = str_replace(" ", "", replaceAccentOnVowels($municipio)) . "_map.svg";
+  $municipio_filename = str_replace(/ /g, "", replaceAccentOnVowels($municipio)) . "_map.svg";
 
   $json = json_encode([
     "departamento" => $departamento,

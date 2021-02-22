@@ -10,8 +10,8 @@ let Welcome = {
           Selecciona qué resultado electoral deseas administrar.
         </p>
         <div style="max-width: 350px">
-          <a href="./asamblea" class="column block button is-medium is-link">Resultados Asamblea</a>
-          <a href="./municipales" class="column block button is-medium is-info">Resultados Municipales</a>
+          <router-link to="asamblea" class="column block button is-medium is-link">Resultados Asamblea</router-link>
+          <router-link to="municipales" class="column block button is-medium is-info">Resultados Municipales</router-link>
         </div>
       </div>
     </div>

@@ -1,0 +1,11 @@
+{
+    "departamento": "Chalatenango",
+    "municipio": "Concepci\u00f3n Quezaltepeque",
+    "img_municipio": "static\/images\/municipios\/CHALATENANGO\/concepcionquezaltepeque_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

@@ -1,28 +1,28 @@
 <?php
-header('Content-Type: application/json;charset=utf-8');
+header('Content-Type: application/json;charset=utf8');
 error_reporting(0);
 
 $dpto_index = [
-  "Ahuachapán",
-  "Cabañas",
-  "Chalatenango",
-  "Cuscatlán",
-  "La Libertad",
-  "La Paz",
-  "La Unión",
-  "Morazán",
-  "San Miguel",
-  "San Salvador",
-  "San Vicente",
-  "Santa Ana",
-  "Sonsonate",
-  "Usulután"
+  "AHUACHAPAN",
+  "CABANAS",
+  "CHALATENANGO",
+  "CUSCATLAN",
+  "LA LIBERTAD",
+  "LA PAZ",
+  "LA UNION",
+  "MORAZAN",
+  "SAN MIGUEL",
+  "SAN SALVADOR",
+  "SAN VICENTE",
+  "SANTA ANA",
+  "SONSONATE",
+  "USULUTAN"
 ];
 
 $idDepartamento = isset($_GET['id']) ? intval($_GET['id']) : 0;
 
 $json_file = file_get_contents("static/departamentos.json");
-$dpto_data = json_decode($json_file, true);
+$dpto_data = json_decode(utf8_encode($json_file), true);
 
 if ($idDepartamento > 0) {
   $dpto_key = isset($dpto_index[$idDepartamento - 1]) ? $dpto_index[$idDepartamento - 1] : false;

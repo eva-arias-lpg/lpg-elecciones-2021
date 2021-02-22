@@ -10,7 +10,7 @@ let Navigation = {
     <div class="container">
       <div class="navbar-brand">
         <a class="navbar-item" href="https://laprensagrafica.com">
-          <img src="assets/images/lpg-logo.png" width="150" height="30" />
+          <img src="/web/assets/images/lpg-logo.png" width="150" height="30" />
         </a>
 
         <a
@@ -30,11 +30,11 @@ let Navigation = {
         <div class="navbar-start">
           <div class="navbar-item"></div>
 
-          <a class="navbar-item has-text-weight-bold"> Resultados Asamblea </a>
+          <router-link class="navbar-item has-text-weight-bold" to="asamblea"> Resultados Asamblea </router-link>
 
-          <a class="navbar-item has-text-weight-bold">
+          <router-link to="municipales" class="navbar-item has-text-weight-bold">
             Resultados Municipales
-          </a>
+          </router-link>
         </div>
 
         <div class="navbar-end">

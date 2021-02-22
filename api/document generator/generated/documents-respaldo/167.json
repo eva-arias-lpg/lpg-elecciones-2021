@@ -1,0 +1,11 @@
+{
+    "departamento": "San Miguel",
+    "municipio": "Moncagua",
+    "img_municipio": "static\/images\/municipios\/SAN MIGUEL\/moncagua_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

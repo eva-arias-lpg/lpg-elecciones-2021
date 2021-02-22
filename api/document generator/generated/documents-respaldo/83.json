@@ -1,0 +1,11 @@
+{
+    "departamento": "La Libertad",
+    "municipio": "San Jos\u00e9 Villanueva",
+    "img_municipio": "static\/images\/municipios\/LA LIBERTAD\/sanjosevillanueva_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

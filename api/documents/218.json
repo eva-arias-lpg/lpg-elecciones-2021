@@ -1,11 +1,39 @@
 {
-    "departamento": "Santa Ana",
-    "municipio": "San Antonio Pajonal",
-    "img_municipio": "static\/images\/municipios\/SANTA ANA\/sanantoniopajonal_map.svg",
-    "ganador": {
-        "partido": null,
-        "img_partido": "resources\/banderas\/art_flag.svg",
-        "id_partido": null,
-        "candidato": null
+  "id": 218,
+  "departamento": "Santa Ana",
+  "municipio": "San Antonio Pajonal",
+  "municipio_normalizado": "san antonio pajonal",
+  "departamento_normalizado": "santa ana",
+  "img_municipio": "static/images/municipios/SANTA%20ANA/sanantoniopajonal_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "NUESTRO_TIEMPO": {
+      "img_bandera": "/resources/banderas/NT_flag.svg"
+    },
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "NUEVAS_IDEAS": {
+      "img_bandera": "/resources/banderas/NI_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "PCN": {
+      "img_bandera": "/resources/banderas/PCN_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
     }
+  }
 }

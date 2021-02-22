@@ -1,0 +1,1340 @@
+{
+  "Ahuachapán": [
+    {
+      "id": 1,
+      "departamento": "Ahuachapán",
+      "municipio": "Ahuachapán"
+    },
+    {
+      "id": 2,
+      "departamento": "Ahuachapán",
+      "municipio": "Apaneca"
+    },
+    {
+      "id": 3,
+      "departamento": "Ahuachapán",
+      "municipio": "Atiquizaya"
+    },
+    {
+      "id": 4,
+      "departamento": "Ahuachapán",
+      "municipio": "Concepción de Ataco"
+    },
+    {
+      "id": 5,
+      "departamento": "Ahuachapán",
+      "municipio": "El Refugio"
+    },
+    {
+      "id": 6,
+      "departamento": "Ahuachapán",
+      "municipio": "Guaymango"
+    },
+    {
+      "id": 7,
+      "departamento": "Ahuachapán",
+      "municipio": "Jujutla"
+    },
+    {
+      "id": 8,
+      "departamento": "Ahuachapán",
+      "municipio": "San Francisco Menéndez"
+    },
+    {
+      "id": 9,
+      "departamento": "Ahuachapán",
+      "municipio": "San Lorenzo"
+    },
+    {
+      "id": 10,
+      "departamento": "Ahuachapán",
+      "municipio": "San Pedro Puxtla"
+    },
+    {
+      "id": 11,
+      "departamento": "Ahuachapán",
+      "municipio": "Tacuba"
+    },
+    {
+      "id": 12,
+      "departamento": "Ahuachapán",
+      "municipio": "Turín"
+    }
+  ],
+  "Cabañas": [
+    {
+      "id": 13,
+      "departamento": "Cabañas",
+      "municipio": "Cinquera"
+    },
+    {
+      "id": 14,
+      "departamento": "Cabañas",
+      "municipio": "Dolores"
+    },
+    {
+      "id": 15,
+      "departamento": "Cabañas",
+      "municipio": "Guacotecti"
+    },
+    {
+      "id": 16,
+      "departamento": "Cabañas",
+      "municipio": "Ilobasco"
+    },
+    {
+      "id": 17,
+      "departamento": "Cabañas",
+      "municipio": "Jutiapa"
+    },
+    {
+      "id": 18,
+      "departamento": "Cabañas",
+      "municipio": "San Isidro"
+    },
+    {
+      "id": 19,
+      "departamento": "Cabañas",
+      "municipio": "Sensuntepeque"
+    },
+    {
+      "id": 20,
+      "departamento": "Cabañas",
+      "municipio": "Tejutepeque"
+    },
+    {
+      "id": 21,
+      "departamento": "Cabañas",
+      "municipio": "Victoria"
+    }
+  ],
+  "Chalatenango": [
+    {
+      "id": 22,
+      "departamento": "Chalatenango",
+      "municipio": "Agua Caliente"
+    },
+    {
+      "id": 23,
+      "departamento": "Chalatenango",
+      "municipio": "Arcatao"
+    },
+    {
+      "id": 24,
+      "departamento": "Chalatenango",
+      "municipio": "Azacualpa"
+    },
+    {
+      "id": 25,
+      "departamento": "Chalatenango",
+      "municipio": "Chalatenango"
+    },
+    {
+      "id": 26,
+      "departamento": "Chalatenango",
+      "municipio": "Citalá"
+    },
+    {
+      "id": 27,
+      "departamento": "Chalatenango",
+      "municipio": "Comalapa"
+    },
+    {
+      "id": 28,
+      "departamento": "Chalatenango",
+      "municipio": "Concepción Quezaltepeque"
+    },
+    {
+      "id": 29,
+      "departamento": "Chalatenango",
+      "municipio": "Dulce Nombre de María"
+    },
+    {
+      "id": 30,
+      "departamento": "Chalatenango",
+      "municipio": "El Carrizal"
+    },
+    {
+      "id": 31,
+      "departamento": "Chalatenango",
+      "municipio": "El Paraíso"
+    },
+    {
+      "id": 32,
+      "departamento": "Chalatenango",
+      "municipio": "La Laguna"
+    },
+    {
+      "id": 33,
+      "departamento": "Chalatenango",
+      "municipio": "La Palma"
+    },
+    {
+      "id": 34,
+      "departamento": "Chalatenango",
+      "municipio": "La Reina"
+    },
+    {
+      "id": 35,
+      "departamento": "Chalatenango",
+      "municipio": "Las Vueltas"
+    },
+    {
+      "id": 36,
+      "departamento": "Chalatenango",
+      "municipio": "Nombre de Jesús"
+    },
+    {
+      "id": 37,
+      "departamento": "Chalatenango",
+      "municipio": "Nueva Concepción"
+    },
+    {
+      "id": 38,
+      "departamento": "Chalatenango",
+      "municipio": "Nueva Trinidad"
+    },
+    {
+      "id": 39,
+      "departamento": "Chalatenango",
+      "municipio": "Ojos de Agua"
+    },
+    {
+      "id": 40,
+      "departamento": "Chalatenango",
+      "municipio": "Potonico"
+    },
+    {
+      "id": 41,
+      "departamento": "Chalatenango",
+      "municipio": "San Antonio de la Cruz"
+    },
+    {
+      "id": 42,
+      "departamento": "Chalatenango",
+      "municipio": "San Antonio Los Ranchos"
+    },
+    {
+      "id": 43,
+      "departamento": "Chalatenango",
+      "municipio": "San Fernando"
+    },
+    {
+      "id": 44,
+      "departamento": "Chalatenango",
+      "municipio": "San Francisco Lempa"
+    },
+    {
+      "id": 45,
+      "departamento": "Chalatenango",
+      "municipio": "San Francisco Morazán"
+    },
+    {
+      "id": 46,
+      "departamento": "Chalatenango",
+      "municipio": "San Ignacio"
+    },
+    {
+      "id": 47,
+      "departamento": "Chalatenango",
+      "municipio": "San Isidro Labrador"
+    },
+    {
+      "id": 48,
+      "departamento": "Chalatenango",
+      "municipio": "San José Cancasque"
+    },
+    {
+      "id": 49,
+      "departamento": "Chalatenango",
+      "municipio": "San José Las Flores"
+    },
+    {
+      "id": 50,
+      "departamento": "Chalatenango",
+      "municipio": "San Luis del Carmen"
+    },
+    {
+      "id": 51,
+      "departamento": "Chalatenango",
+      "municipio": "San Miguel de Mercedes"
+    },
+    {
+      "id": 52,
+      "departamento": "Chalatenango",
+      "municipio": "San Rafael"
+    },
+    {
+      "id": 53,
+      "departamento": "Chalatenango",
+      "municipio": "Santa Rita"
+    },
+    {
+      "id": 54,
+      "departamento": "Chalatenango",
+      "municipio": "Tejutla"
+    }
+  ],
+  "Cuscatlán": [
+    {
+      "id": 55,
+      "departamento": "Cuscatlán",
+      "municipio": "Candelaria"
+    },
+    {
+      "id": 56,
+      "departamento": "Cuscatlán",
+      "municipio": "Cojutepeque"
+    },
+    {
+      "id": 57,
+      "departamento": "Cuscatlán",
+      "municipio": "El Carmen"
+    },
+    {
+      "id": 58,
+      "departamento": "Cuscatlán",
+      "municipio": "El Rosario"
+    },
+    {
+      "id": 59,
+      "departamento": "Cuscatlán",
+      "municipio": "Monte San Juan"
+    },
+    {
+      "id": 60,
+      "departamento": "Cuscatlán",
+      "municipio": "Oratorio de Concepción"
+    },
+    {
+      "id": 61,
+      "departamento": "Cuscatlán",
+      "municipio": "San Bartolomé Perulapía"
+    },
+    {
+      "id": 62,
+      "departamento": "Cuscatlán",
+      "municipio": "San Cristóbal"
+    },
+    {
+      "id": 63,
+      "departamento": "Cuscatlán",
+      "municipio": "San José Guayabal"
+    },
+    {
+      "id": 64,
+      "departamento": "Cuscatlán",
+      "municipio": "San Pedro Perulapán"
+    },
+    {
+      "id": 65,
+      "departamento": "Cuscatlán",
+      "municipio": "San Rafael Cedros"
+    },
+    {
+      "id": 66,
+      "departamento": "Cuscatlán",
+      "municipio": "San Ramón"
+    },
+    {
+      "id": 67,
+      "departamento": "Cuscatlán",
+      "municipio": "Santa Cruz Analquito"
+    },
+    {
+      "id": 68,
+      "departamento": "Cuscatlán",
+      "municipio": "Santa Cruz Michapa"
+    },
+    {
+      "id": 69,
+      "departamento": "Cuscatlán",
+      "municipio": "Suchitoto"
+    },
+    {
+      "id": 70,
+      "departamento": "Cuscatlán",
+      "municipio": "Tenancingo"
+    }
+  ],
+  "La Libertad": [
+    {
+      "id": 71,
+      "departamento": "La Libertad",
+      "municipio": "Antiguo Cuscatlán"
+    },
+    {
+      "id": 72,
+      "departamento": "La Libertad",
+      "municipio": "Chiltiupán"
+    },
+    {
+      "id": 73,
+      "departamento": "La Libertad",
+      "municipio": "Ciudad Arce"
+    },
+    {
+      "id": 74,
+      "departamento": "La Libertad",
+      "municipio": "Colón"
+    },
+    {
+      "id": 75,
+      "departamento": "La Libertad",
+      "municipio": "Comasagua"
+    },
+    {
+      "id": 76,
+      "departamento": "La Libertad",
+      "municipio": "Huizúcar"
+    },
+    {
+      "id": 77,
+      "departamento": "La Libertad",
+      "municipio": "Jayaque"
+    },
+    {
+      "id": 78,
+      "departamento": "La Libertad",
+      "municipio": "Jicalapa"
+    },
+    {
+      "id": 79,
+      "departamento": "La Libertad",
+      "municipio": "La Libertad"
+    },
+    {
+      "id": 80,
+      "departamento": "La Libertad",
+      "municipio": "Nuevo Cuscatlán"
+    },
+    {
+      "id": 81,
+      "departamento": "La Libertad",
+      "municipio": "Quezaltepeque"
+    },
+    {
+      "id": 82,
+      "departamento": "La Libertad",
+      "municipio": "Sacacoyo"
+    },
+    {
+      "id": 83,
+      "departamento": "La Libertad",
+      "municipio": "San José Villanueva"
+    },
+    {
+      "id": 84,
+      "departamento": "La Libertad",
+      "municipio": "San Juan Opico"
+    },
+    {
+      "id": 85,
+      "departamento": "La Libertad",
+      "municipio": "San Matías"
+    },
+    {
+      "id": 86,
+      "departamento": "La Libertad",
+      "municipio": "San Pablo Tacachico"
+    },
+    {
+      "id": 87,
+      "departamento": "La Libertad",
+      "municipio": "Santa Tecla"
+    },
+    {
+      "id": 88,
+      "departamento": "La Libertad",
+      "municipio": "Talnique"
+    },
+    {
+      "id": 89,
+      "departamento": "La Libertad",
+      "municipio": "Tamanique"
+    },
+    {
+      "id": 90,
+      "departamento": "La Libertad",
+      "municipio": "Teotepeque"
+    },
+    {
+      "id": 91,
+      "departamento": "La Libertad",
+      "municipio": "Tepecoyo"
+    },
+    {
+      "id": 92,
+      "departamento": "La Libertad",
+      "municipio": "Zaragoza"
+    }
+  ],
+  "La Paz": [
+    {
+      "id": 93,
+      "departamento": "La Paz",
+      "municipio": "Cuyultitán"
+    },
+    {
+      "id": 94,
+      "departamento": "La Paz",
+      "municipio": "El Rosario"
+    },
+    {
+      "id": 95,
+      "departamento": "La Paz",
+      "municipio": "Jerusalén"
+    },
+    {
+      "id": 96,
+      "departamento": "La Paz",
+      "municipio": "Mercedes La Ceiba"
+    },
+    {
+      "id": 97,
+      "departamento": "La Paz",
+      "municipio": "Olocuilta"
+    },
+    {
+      "id": 98,
+      "departamento": "La Paz",
+      "municipio": "Paraíso de Osorio"
+    },
+    {
+      "id": 99,
+      "departamento": "La Paz",
+      "municipio": "San Antonio Masahuat"
+    },
+    {
+      "id": 100,
+      "departamento": "La Paz",
+      "municipio": "San Emigdio"
+    },
+    {
+      "id": 101,
+      "departamento": "La Paz",
+      "municipio": "San Francisco Chinameca"
+    },
+    {
+      "id": 102,
+      "departamento": "La Paz",
+      "municipio": "San Juan Nonualco"
+    },
+    {
+      "id": 103,
+      "departamento": "La Paz",
+      "municipio": "San Juan Talpa"
+    },
+    {
+      "id": 104,
+      "departamento": "La Paz",
+      "municipio": "San Juan Tepezontes"
+    },
+    {
+      "id": 105,
+      "departamento": "La Paz",
+      "municipio": "San Luis La Herradura"
+    },
+    {
+      "id": 106,
+      "departamento": "La Paz",
+      "municipio": "San Luis Talpa"
+    },
+    {
+      "id": 107,
+      "departamento": "La Paz",
+      "municipio": "San Miguel Tepezontes"
+    },
+    {
+      "id": 108,
+      "departamento": "La Paz",
+      "municipio": "San Pedro Masahuat"
+    },
+    {
+      "id": 109,
+      "departamento": "La Paz",
+      "municipio": "San Pedro Nonualco"
+    },
+    {
+      "id": 110,
+      "departamento": "La Paz",
+      "municipio": "San Rafael Obrajuelo"
+    },
+    {
+      "id": 111,
+      "departamento": "La Paz",
+      "municipio": "Santa María Ostuma"
+    },
+    {
+      "id": 112,
+      "departamento": "La Paz",
+      "municipio": "Santiago Nonualco"
+    },
+    {
+      "id": 113,
+      "departamento": "La Paz",
+      "municipio": "Tapalhuaca"
+    },
+    {
+      "id": 114,
+      "departamento": "La Paz",
+      "municipio": "Zacatecoluca"
+    }
+  ],
+  "La Unión": [
+    {
+      "id": 115,
+      "departamento": "La Unión",
+      "municipio": "Anamorós"
+    },
+    {
+      "id": 116,
+      "departamento": "La Unión",
+      "municipio": "Bolívar"
+    },
+    {
+      "id": 117,
+      "departamento": "La Unión",
+      "municipio": "Concepción de Oriente"
+    },
+    {
+      "id": 118,
+      "departamento": "La Unión",
+      "municipio": "Conchagua"
+    },
+    {
+      "id": 119,
+      "departamento": "La Unión",
+      "municipio": "El Carmen"
+    },
+    {
+      "id": 120,
+      "departamento": "La Unión",
+      "municipio": "El Sauce"
+    },
+    {
+      "id": 121,
+      "departamento": "La Unión",
+      "municipio": "Intipucá"
+    },
+    {
+      "id": 122,
+      "departamento": "La Unión",
+      "municipio": "La Unión"
+    },
+    {
+      "id": 123,
+      "departamento": "La Unión",
+      "municipio": "Lislique"
+    },
+    {
+      "id": 124,
+      "departamento": "La Unión",
+      "municipio": "Meanguera del Golfo"
+    },
+    {
+      "id": 125,
+      "departamento": "La Unión",
+      "municipio": "Nueva Esparta"
+    },
+    {
+      "id": 126,
+      "departamento": "La Unión",
+      "municipio": "Pasaquina"
+    },
+    {
+      "id": 127,
+      "departamento": "La Unión",
+      "municipio": "Polorós"
+    },
+    {
+      "id": 128,
+      "departamento": "La Unión",
+      "municipio": "San Alejo"
+    },
+    {
+      "id": 129,
+      "departamento": "La Unión",
+      "municipio": "San José"
+    },
+    {
+      "id": 130,
+      "departamento": "La Unión",
+      "municipio": "Santa Rosa de Lima"
+    },
+    {
+      "id": 131,
+      "departamento": "La Unión",
+      "municipio": "Yayantique"
+    },
+    {
+      "id": 132,
+      "departamento": "La Unión",
+      "municipio": "Yucuaiquín"
+    }
+  ],
+  "Morazán": [
+    {
+      "id": 133,
+      "departamento": "Morazán",
+      "municipio": "Torola"
+    },
+    {
+      "id": 134,
+      "departamento": "Morazán",
+      "municipio": "Arambala"
+    },
+    {
+      "id": 135,
+      "departamento": "Morazán",
+      "municipio": "Cacaopera"
+    },
+    {
+      "id": 136,
+      "departamento": "Morazán",
+      "municipio": "Chilanga"
+    },
+    {
+      "id": 137,
+      "departamento": "Morazán",
+      "municipio": "Corinto"
+    },
+    {
+      "id": 138,
+      "departamento": "Morazán",
+      "municipio": "Delicias de Concepción"
+    },
+    {
+      "id": 139,
+      "departamento": "Morazán",
+      "municipio": "El Divisadero"
+    },
+    {
+      "id": 140,
+      "departamento": "Morazán",
+      "municipio": "El Rosario"
+    },
+    {
+      "id": 141,
+      "departamento": "Morazán",
+      "municipio": "Gualococti"
+    },
+    {
+      "id": 142,
+      "departamento": "Morazán",
+      "municipio": "Guatajiagua"
+    },
+    {
+      "id": 143,
+      "departamento": "Morazán",
+      "municipio": "Joateca"
+    },
+    {
+      "id": 144,
+      "departamento": "Morazán",
+      "municipio": "Jocoaitique"
+    },
+    {
+      "id": 145,
+      "departamento": "Morazán",
+      "municipio": "Jocoro"
+    },
+    {
+      "id": 146,
+      "departamento": "Morazán",
+      "municipio": "Lolotiquillo"
+    },
+    {
+      "id": 147,
+      "departamento": "Morazán",
+      "municipio": "Meanguera"
+    },
+    {
+      "id": 148,
+      "departamento": "Morazán",
+      "municipio": "Osicala"
+    },
+    {
+      "id": 149,
+      "departamento": "Morazán",
+      "municipio": "Perquín"
+    },
+    {
+      "id": 150,
+      "departamento": "Morazán",
+      "municipio": "San Carlos"
+    },
+    {
+      "id": 151,
+      "departamento": "Morazán",
+      "municipio": "San Fernando"
+    },
+    {
+      "id": 152,
+      "departamento": "Morazán",
+      "municipio": "San Francisco Gotera"
+    },
+    {
+      "id": 153,
+      "departamento": "Morazán",
+      "municipio": "San Isidro"
+    },
+    {
+      "id": 154,
+      "departamento": "Morazán",
+      "municipio": "San Simón"
+    },
+    {
+      "id": 155,
+      "departamento": "Morazán",
+      "municipio": "Sensembra"
+    },
+    {
+      "id": 156,
+      "departamento": "Morazán",
+      "municipio": "Sociedad"
+    },
+    {
+      "id": 157,
+      "departamento": "Morazán",
+      "municipio": "Yamabal"
+    },
+    {
+      "id": 158,
+      "departamento": "Morazán",
+      "municipio": "Yoloaiquín"
+    }
+  ],
+  "San Miguel": [
+    {
+      "id": 159,
+      "departamento": "San Miguel",
+      "municipio": "Carolina"
+    },
+    {
+      "id": 160,
+      "departamento": "San Miguel",
+      "municipio": "Chapeltique"
+    },
+    {
+      "id": 161,
+      "departamento": "San Miguel",
+      "municipio": "Chinameca"
+    },
+    {
+      "id": 162,
+      "departamento": "San Miguel",
+      "municipio": "Chirilagua"
+    },
+    {
+      "id": 163,
+      "departamento": "San Miguel",
+      "municipio": "Ciudad Barrios"
+    },
+    {
+      "id": 164,
+      "departamento": "San Miguel",
+      "municipio": "Comacarán"
+    },
+    {
+      "id": 165,
+      "departamento": "San Miguel",
+      "municipio": "El Tránsito"
+    },
+    {
+      "id": 166,
+      "departamento": "San Miguel",
+      "municipio": "Lolotique"
+    },
+    {
+      "id": 167,
+      "departamento": "San Miguel",
+      "municipio": "Moncagua"
+    },
+    {
+      "id": 168,
+      "departamento": "San Miguel",
+      "municipio": "Nueva Guadalupe"
+    },
+    {
+      "id": 169,
+      "departamento": "San Miguel",
+      "municipio": "Nuevo Edén de San Juan"
+    },
+    {
+      "id": 170,
+      "departamento": "San Miguel",
+      "municipio": "Quelepa"
+    },
+    {
+      "id": 171,
+      "departamento": "San Miguel",
+      "municipio": "San Antonio del Mosco"
+    },
+    {
+      "id": 172,
+      "departamento": "San Miguel",
+      "municipio": "San Gerardo"
+    },
+    {
+      "id": 173,
+      "departamento": "San Miguel",
+      "municipio": "San Jorge"
+    },
+    {
+      "id": 174,
+      "departamento": "San Miguel",
+      "municipio": "San Luis de la Reina"
+    },
+    {
+      "id": 175,
+      "departamento": "San Miguel",
+      "municipio": "San Miguel"
+    },
+    {
+      "id": 176,
+      "departamento": "San Miguel",
+      "municipio": "San Rafael Oriente"
+    },
+    {
+      "id": 177,
+      "departamento": "San Miguel",
+      "municipio": "Sesori"
+    },
+    {
+      "id": 178,
+      "departamento": "San Miguel",
+      "municipio": "Uluazapa"
+    }
+  ],
+  "San Salvador": [
+    {
+      "id": 179,
+      "departamento": "San Salvador",
+      "municipio": "Aguilares"
+    },
+    {
+      "id": 180,
+      "departamento": "San Salvador",
+      "municipio": "Apopa"
+    },
+    {
+      "id": 181,
+      "departamento": "San Salvador",
+      "municipio": "Ayutuxtepeque"
+    },
+    {
+      "id": 182,
+      "departamento": "San Salvador",
+      "municipio": "Ciudad Delgado"
+    },
+    {
+      "id": 183,
+      "departamento": "San Salvador",
+      "municipio": "Cuscatancingo"
+    },
+    {
+      "id": 184,
+      "departamento": "San Salvador",
+      "municipio": "El Paisnal"
+    },
+    {
+      "id": 185,
+      "departamento": "San Salvador",
+      "municipio": "Guazapa"
+    },
+    {
+      "id": 186,
+      "departamento": "San Salvador",
+      "municipio": "Ilopango"
+    },
+    {
+      "id": 187,
+      "departamento": "San Salvador",
+      "municipio": "Mejicanos"
+    },
+    {
+      "id": 188,
+      "departamento": "San Salvador",
+      "municipio": "Nejapa"
+    },
+    {
+      "id": 189,
+      "departamento": "San Salvador",
+      "municipio": "Panchimalco"
+    },
+    {
+      "id": 190,
+      "departamento": "San Salvador",
+      "municipio": "Rosario de Mora"
+    },
+    {
+      "id": 191,
+      "departamento": "San Salvador",
+      "municipio": "San Marcos"
+    },
+    {
+      "id": 192,
+      "departamento": "San Salvador",
+      "municipio": "San Martín"
+    },
+    {
+      "id": 193,
+      "departamento": "San Salvador",
+      "municipio": "San Salvador"
+    },
+    {
+      "id": 194,
+      "departamento": "San Salvador",
+      "municipio": "Santiago Texacuangos"
+    },
+    {
+      "id": 195,
+      "departamento": "San Salvador",
+      "municipio": "Santo Tomás"
+    },
+    {
+      "id": 196,
+      "departamento": "San Salvador",
+      "municipio": "Soyapango"
+    },
+    {
+      "id": 197,
+      "departamento": "San Salvador",
+      "municipio": "Tonacatepeque"
+    }
+  ],
+  "San Vicente": [
+    {
+      "id": 198,
+      "departamento": "San Vicente",
+      "municipio": "Apastepeque"
+    },
+    {
+      "id": 199,
+      "departamento": "San Vicente",
+      "municipio": "Guadalupe"
+    },
+    {
+      "id": 200,
+      "departamento": "San Vicente",
+      "municipio": "San Cayetano Istepeque"
+    },
+    {
+      "id": 201,
+      "departamento": "San Vicente",
+      "municipio": "San Esteban Catarina"
+    },
+    {
+      "id": 202,
+      "departamento": "San Vicente",
+      "municipio": "San Ildefonso"
+    },
+    {
+      "id": 203,
+      "departamento": "San Vicente",
+      "municipio": "San Lorenzo"
+    },
+    {
+      "id": 204,
+      "departamento": "San Vicente",
+      "municipio": "San Sebastián"
+    },
+    {
+      "id": 205,
+      "departamento": "San Vicente",
+      "municipio": "San Vicente"
+    },
+    {
+      "id": 206,
+      "departamento": "San Vicente",
+      "municipio": "Santa Clara"
+    },
+    {
+      "id": 207,
+      "departamento": "San Vicente",
+      "municipio": "Santo Domingo"
+    },
+    {
+      "id": 208,
+      "departamento": "San Vicente",
+      "municipio": "Tecoluca"
+    },
+    {
+      "id": 209,
+      "departamento": "San Vicente",
+      "municipio": "Tepetitán"
+    },
+    {
+      "id": 210,
+      "departamento": "San Vicente",
+      "municipio": "Verapaz"
+    }
+  ],
+  "Santa Ana": [
+    {
+      "id": 211,
+      "departamento": "Santa Ana",
+      "municipio": "Candelaria de la Frontera"
+    },
+    {
+      "id": 212,
+      "departamento": "Santa Ana",
+      "municipio": "Chalchuapa"
+    },
+    {
+      "id": 213,
+      "departamento": "Santa Ana",
+      "municipio": "Coatepeque"
+    },
+    {
+      "id": 214,
+      "departamento": "Santa Ana",
+      "municipio": "El Congo"
+    },
+    {
+      "id": 215,
+      "departamento": "Santa Ana",
+      "municipio": "El Porvenir"
+    },
+    {
+      "id": 216,
+      "departamento": "Santa Ana",
+      "municipio": "Masahuat"
+    },
+    {
+      "id": 217,
+      "departamento": "Santa Ana",
+      "municipio": "Metapán"
+    },
+    {
+      "id": 218,
+      "departamento": "Santa Ana",
+      "municipio": "San Antonio Pajonal"
+    },
+    {
+      "id": 219,
+      "departamento": "Santa Ana",
+      "municipio": "San Sebastián Salitrillo"
+    },
+    {
+      "id": 220,
+      "departamento": "Santa Ana",
+      "municipio": "Santa Ana"
+    },
+    {
+      "id": 221,
+      "departamento": "Santa Ana",
+      "municipio": "Santa Rosa Guachipilín"
+    },
+    {
+      "id": 222,
+      "departamento": "Santa Ana",
+      "municipio": "Santiago de la Frontera"
+    },
+    {
+      "id": 223,
+      "departamento": "Santa Ana",
+      "municipio": "Texistepeque"
+    }
+  ],
+  "Sonsonate": [
+    {
+      "id": 224,
+      "departamento": "Sonsonate",
+      "municipio": "Acajutla"
+    },
+    {
+      "id": 225,
+      "departamento": "Sonsonate",
+      "municipio": "Armenia"
+    },
+    {
+      "id": 226,
+      "departamento": "Sonsonate",
+      "municipio": "Caluco"
+    },
+    {
+      "id": 227,
+      "departamento": "Sonsonate",
+      "municipio": "Cuisnahuat"
+    },
+    {
+      "id": 228,
+      "departamento": "Sonsonate",
+      "municipio": "Izalco"
+    },
+    {
+      "id": 229,
+      "departamento": "Sonsonate",
+      "municipio": "Juayúa"
+    },
+    {
+      "id": 230,
+      "departamento": "Sonsonate",
+      "municipio": "Nahuizalco"
+    },
+    {
+      "id": 231,
+      "departamento": "Sonsonate",
+      "municipio": "Nahulingo"
+    },
+    {
+      "id": 232,
+      "departamento": "Sonsonate",
+      "municipio": "Salcoatitán"
+    },
+    {
+      "id": 233,
+      "departamento": "Sonsonate",
+      "municipio": "San Antonio del Monte"
+    },
+    {
+      "id": 234,
+      "departamento": "Sonsonate",
+      "municipio": "San Julián"
+    },
+    {
+      "id": 235,
+      "departamento": "Sonsonate",
+      "municipio": "Santa Catarina Masahuat"
+    },
+    {
+      "id": 236,
+      "departamento": "Sonsonate",
+      "municipio": "Santa Isabel Ishuatán"
+    },
+    {
+      "id": 237,
+      "departamento": "Sonsonate",
+      "municipio": "Santo Domingo Guzmán"
+    },
+    {
+      "id": 238,
+      "departamento": "Sonsonate",
+      "municipio": "Sonsonate"
+    },
+    {
+      "id": 239,
+      "departamento": "Sonsonate",
+      "municipio": "Sonzacate"
+    }
+  ],
+  "Usulután": [
+    {
+      "id": 240,
+      "departamento": "Usulután",
+      "municipio": "Alegría"
+    },
+    {
+      "id": 241,
+      "departamento": "Usulután",
+      "municipio": "Berlín"
+    },
+    {
+      "id": 242,
+      "departamento": "Usulután",
+      "municipio": "California"
+    },
+    {
+      "id": 243,
+      "departamento": "Usulután",
+      "municipio": "Concepción Batres"
+    },
+    {
+      "id": 244,
+      "departamento": "Usulután",
+      "municipio": "El Triunfo"
+    },
+    {
+      "id": 245,
+      "departamento": "Usulután",
+      "municipio": "Ereguayquín"
+    },
+    {
+      "id": 246,
+      "departamento": "Usulután",
+      "municipio": "Estanzuelas"
+    },
+    {
+      "id": 247,
+      "departamento": "Usulután",
+      "municipio": "Jiquilisco"
+    },
+    {
+      "id": 248,
+      "departamento": "Usulután",
+      "municipio": "Jucuapa"
+    },
+    {
+      "id": 249,
+      "departamento": "Usulután",
+      "municipio": "Jucuarán"
+    },
+    {
+      "id": 250,
+      "departamento": "Usulután",
+      "municipio": "Mercedes Umaña"
+    },
+    {
+      "id": 251,
+      "departamento": "Usulután",
+      "municipio": "Nueva Granada"
+    },
+    {
+      "id": 252,
+      "departamento": "Usulután",
+      "municipio": "Ozatlán"
+    },
+    {
+      "id": 253,
+      "departamento": "Usulután",
+      "municipio": "Puerto El Triunfo"
+    },
+    {
+      "id": 254,
+      "departamento": "Usulután",
+      "municipio": "San Agustín"
+    },
+    {
+      "id": 255,
+      "departamento": "Usulután",
+      "municipio": "San Buenaventura"
+    },
+    {
+      "id": 256,
+      "departamento": "Usulután",
+      "municipio": "San Dionisio"
+    },
+    {
+      "id": 257,
+      "departamento": "Usulután",
+      "municipio": "San Francisco Javier"
+    },
+    {
+      "id": 258,
+      "departamento": "Usulután",
+      "municipio": "Santa Elena"
+    },
+    {
+      "id": 259,
+      "departamento": "Usulután",
+      "municipio": "Santa María"
+    },
+    {
+      "id": 260,
+      "departamento": "Usulután",
+      "municipio": "Santiago de María"
+    },
+    {
+      "id": 261,
+      "departamento": "Usulután",
+      "municipio": "Tecapán"
+    },
+    {
+      "id": 262,
+      "departamento": "Usulután",
+      "municipio": "Usulután"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "departamento": "La Libertad",
+    "municipio": "Huiz\u00facar",
+    "img_municipio": "static\/images\/municipios\/LA LIBERTAD\/huizucar_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "departamento": "San Miguel",
+    "municipio": "Lolotique",
+    "img_municipio": "static\/images\/municipios\/SAN MIGUEL\/lolotique_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

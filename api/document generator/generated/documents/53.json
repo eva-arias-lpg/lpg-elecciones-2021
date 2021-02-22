@@ -1,0 +1,28 @@
+{
+  "id": 53,
+  "departamento": "Chalatenango",
+  "municipio": "Santa Rita",
+  "img_municipio": "static/images/municipios/CHALATENANGO/santarita_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
+    }
+  }
+}

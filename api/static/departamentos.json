@@ -1,1340 +1,2126 @@
 {
-  "Ahuachap√°n": [
+  "AHUACHAPAN": [
     {
       "id": 1,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Ahuachap√°n"
+      "departamento": "Ahuachap·n",
+      "municipio": "Ahuachap·n",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "ahuachapan",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/ahuachapan_map.svg"
     },
     {
       "id": 2,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Apaneca"
+      "departamento": "Ahuachap·n",
+      "municipio": "Apaneca",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "apaneca",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/apaneca_map.svg"
     },
     {
       "id": 3,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Atiquizaya"
+      "departamento": "Ahuachap·n",
+      "municipio": "Atiquizaya",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "atiquizaya",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/atiquizaya_map.svg"
     },
     {
       "id": 4,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Concepci√≥n de Ataco"
+      "departamento": "Ahuachap·n",
+      "municipio": "ConcepciÛn de Ataco",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "concepcion de ataco",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/concepciondeataco_map.svg"
     },
     {
       "id": 5,
-      "departamento": "Ahuachap√°n",
-      "municipio": "El Refugio"
+      "departamento": "Ahuachap·n",
+      "municipio": "El Refugio",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "el refugio",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/elrefugio_map.svg"
     },
     {
       "id": 6,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Guaymango"
+      "departamento": "Ahuachap·n",
+      "municipio": "Guaymango",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "guaymango",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/guaymango_map.svg"
     },
     {
       "id": 7,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Jujutla"
+      "departamento": "Ahuachap·n",
+      "municipio": "Jujutla",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "jujutla",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/jujutla_map.svg"
     },
     {
       "id": 8,
-      "departamento": "Ahuachap√°n",
-      "municipio": "San Francisco Men√©ndez"
+      "departamento": "Ahuachap·n",
+      "municipio": "San Francisco MenÈndez",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "san francisco menendez",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/sanfranciscomenendez_map.svg"
     },
     {
       "id": 9,
-      "departamento": "Ahuachap√°n",
-      "municipio": "San Lorenzo"
+      "departamento": "Ahuachap·n",
+      "municipio": "San Lorenzo",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "san lorenzo",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/sanlorenzo_map.svg"
     },
     {
       "id": 10,
-      "departamento": "Ahuachap√°n",
-      "municipio": "San Pedro Puxtla"
+      "departamento": "Ahuachap·n",
+      "municipio": "San Pedro Puxtla",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "san pedro puxtla",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/sanpedropuxtla_map.svg"
     },
     {
       "id": 11,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Tacuba"
+      "departamento": "Ahuachap·n",
+      "municipio": "Tacuba",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "tacuba",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/tacuba_map.svg"
     },
     {
       "id": 12,
-      "departamento": "Ahuachap√°n",
-      "municipio": "Tur√≠n"
+      "departamento": "Ahuachap·n",
+      "municipio": "TurÌn",
+      "departamento_normalizado": "ahuachapan",
+      "municipio_normalizado": "turin",
+      "img_municipio": "static/images/municipios/AHUACHAPAN/turin_map.svg"
     }
   ],
-  "Caba√±as": [
+  "CABANAS": [
     {
       "id": 13,
-      "departamento": "Caba√±as",
-      "municipio": "Cinquera"
+      "departamento": "CabaÒas",
+      "municipio": "Cinquera",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "cinquera",
+      "img_municipio": "static/images/municipios/CABANAS/cinquera_map.svg"
     },
     {
       "id": 14,
-      "departamento": "Caba√±as",
-      "municipio": "Dolores"
+      "departamento": "CabaÒas",
+      "municipio": "Dolores",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "dolores",
+      "img_municipio": "static/images/municipios/CABANAS/dolores_map.svg"
     },
     {
       "id": 15,
-      "departamento": "Caba√±as",
-      "municipio": "Guacotecti"
+      "departamento": "CabaÒas",
+      "municipio": "Guacotecti",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "guacotecti",
+      "img_municipio": "static/images/municipios/CABANAS/guacotecti_map.svg"
     },
     {
       "id": 16,
-      "departamento": "Caba√±as",
-      "municipio": "Ilobasco"
+      "departamento": "CabaÒas",
+      "municipio": "Ilobasco",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "ilobasco",
+      "img_municipio": "static/images/municipios/CABANAS/ilobasco_map.svg"
     },
     {
       "id": 17,
-      "departamento": "Caba√±as",
-      "municipio": "Jutiapa"
+      "departamento": "CabaÒas",
+      "municipio": "Jutiapa",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "jutiapa",
+      "img_municipio": "static/images/municipios/CABANAS/jutiapa_map.svg"
     },
     {
       "id": 18,
-      "departamento": "Caba√±as",
-      "municipio": "San Isidro"
+      "departamento": "CabaÒas",
+      "municipio": "San Isidro",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "san isidro",
+      "img_municipio": "static/images/municipios/CABANAS/sanisidro_map.svg"
     },
     {
       "id": 19,
-      "departamento": "Caba√±as",
-      "municipio": "Sensuntepeque"
+      "departamento": "CabaÒas",
+      "municipio": "Sensuntepeque",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "sensuntepeque",
+      "img_municipio": "static/images/municipios/CABANAS/sensuntepeque_map.svg"
     },
     {
       "id": 20,
-      "departamento": "Caba√±as",
-      "municipio": "Tejutepeque"
+      "departamento": "CabaÒas",
+      "municipio": "Tejutepeque",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "tejutepeque",
+      "img_municipio": "static/images/municipios/CABANAS/tejutepeque_map.svg"
     },
     {
       "id": 21,
-      "departamento": "Caba√±as",
-      "municipio": "Victoria"
+      "departamento": "CabaÒas",
+      "municipio": "Victoria",
+      "departamento_normalizado": "cabanas",
+      "municipio_normalizado": "victoria",
+      "img_municipio": "static/images/municipios/CABANAS/victoria_map.svg"
     }
   ],
-  "Chalatenango": [
+  "CHALATENANGO": [
     {
       "id": 22,
       "departamento": "Chalatenango",
-      "municipio": "Agua Caliente"
+      "municipio": "Agua Caliente",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "agua caliente",
+      "img_municipio": "static/images/municipios/CHALATENANGO/aguacaliente_map.svg"
     },
     {
       "id": 23,
       "departamento": "Chalatenango",
-      "municipio": "Arcatao"
+      "municipio": "Arcatao",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "arcatao",
+      "img_municipio": "static/images/municipios/CHALATENANGO/arcatao_map.svg"
     },
     {
       "id": 24,
       "departamento": "Chalatenango",
-      "municipio": "Azacualpa"
+      "municipio": "Azacualpa",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "azacualpa",
+      "img_municipio": "static/images/municipios/CHALATENANGO/azacualpa_map.svg"
     },
     {
       "id": 25,
       "departamento": "Chalatenango",
-      "municipio": "Chalatenango"
+      "municipio": "Chalatenango",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "chalatenango",
+      "img_municipio": "static/images/municipios/CHALATENANGO/chalatenango_map.svg"
     },
     {
       "id": 26,
       "departamento": "Chalatenango",
-      "municipio": "Cital√°"
+      "municipio": "Cital·",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "citala",
+      "img_municipio": "static/images/municipios/CHALATENANGO/citala_map.svg"
     },
     {
       "id": 27,
       "departamento": "Chalatenango",
-      "municipio": "Comalapa"
+      "municipio": "Comalapa",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "comalapa",
+      "img_municipio": "static/images/municipios/CHALATENANGO/comalapa_map.svg"
     },
     {
       "id": 28,
       "departamento": "Chalatenango",
-      "municipio": "Concepci√≥n Quezaltepeque"
+      "municipio": "ConcepciÛn Quezaltepeque",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "concepcion quezaltepeque",
+      "img_municipio": "static/images/municipios/CHALATENANGO/concepcionquezaltepeque_map.svg"
     },
     {
       "id": 29,
       "departamento": "Chalatenango",
-      "municipio": "Dulce Nombre de Mar√≠a"
+      "municipio": "Dulce Nombre de MarÌa",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "dulce nombre de maria",
+      "img_municipio": "static/images/municipios/CHALATENANGO/dulcenombredemaria_map.svg"
     },
     {
       "id": 30,
       "departamento": "Chalatenango",
-      "municipio": "El Carrizal"
+      "municipio": "El Carrizal",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "el carrizal",
+      "img_municipio": "static/images/municipios/CHALATENANGO/elcarrizal_map.svg"
     },
     {
       "id": 31,
       "departamento": "Chalatenango",
-      "municipio": "El Para√≠so"
+      "municipio": "El ParaÌso",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "el paraiso",
+      "img_municipio": "static/images/municipios/CHALATENANGO/elparaiso_map.svg"
     },
     {
       "id": 32,
       "departamento": "Chalatenango",
-      "municipio": "La Laguna"
+      "municipio": "La Laguna",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "la laguna",
+      "img_municipio": "static/images/municipios/CHALATENANGO/lalaguna_map.svg"
     },
     {
       "id": 33,
       "departamento": "Chalatenango",
-      "municipio": "La Palma"
+      "municipio": "La Palma",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "la palma",
+      "img_municipio": "static/images/municipios/CHALATENANGO/lapalma_map.svg"
     },
     {
       "id": 34,
       "departamento": "Chalatenango",
-      "municipio": "La Reina"
+      "municipio": "La Reina",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "la reina",
+      "img_municipio": "static/images/municipios/CHALATENANGO/lareina_map.svg"
     },
     {
       "id": 35,
       "departamento": "Chalatenango",
-      "municipio": "Las Vueltas"
+      "municipio": "Las Vueltas",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "las vueltas",
+      "img_municipio": "static/images/municipios/CHALATENANGO/lasvueltas_map.svg"
     },
     {
       "id": 36,
       "departamento": "Chalatenango",
-      "municipio": "Nombre de Jes√∫s"
+      "municipio": "Nombre de Jes˙s",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "nombre de jesus",
+      "img_municipio": "static/images/municipios/CHALATENANGO/nombredejesus_map.svg"
     },
     {
       "id": 37,
       "departamento": "Chalatenango",
-      "municipio": "Nueva Concepci√≥n"
+      "municipio": "Nueva ConcepciÛn",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "nueva concepcion",
+      "img_municipio": "static/images/municipios/CHALATENANGO/nuevaconcepcion_map.svg"
     },
     {
       "id": 38,
       "departamento": "Chalatenango",
-      "municipio": "Nueva Trinidad"
+      "municipio": "Nueva Trinidad",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "nueva trinidad",
+      "img_municipio": "static/images/municipios/CHALATENANGO/nuevatrinidad_map.svg"
     },
     {
       "id": 39,
       "departamento": "Chalatenango",
-      "municipio": "Ojos de Agua"
+      "municipio": "Ojos de Agua",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "ojos de agua",
+      "img_municipio": "static/images/municipios/CHALATENANGO/ojosdeagua_map.svg"
     },
     {
       "id": 40,
       "departamento": "Chalatenango",
-      "municipio": "Potonico"
+      "municipio": "Potonico",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "potonico",
+      "img_municipio": "static/images/municipios/CHALATENANGO/potonico_map.svg"
     },
     {
       "id": 41,
       "departamento": "Chalatenango",
-      "municipio": "San Antonio de la Cruz"
+      "municipio": "San Antonio de la Cruz",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san antonio de la cruz",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanantoniodelacruz_map.svg"
     },
     {
       "id": 42,
       "departamento": "Chalatenango",
-      "municipio": "San Antonio Los Ranchos"
+      "municipio": "San Antonio Los Ranchos",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san antonio los ranchos",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanantoniolosranchos_map.svg"
     },
     {
       "id": 43,
       "departamento": "Chalatenango",
-      "municipio": "San Fernando"
+      "municipio": "San Fernando",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san fernando",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanfernando_map.svg"
     },
     {
       "id": 44,
       "departamento": "Chalatenango",
-      "municipio": "San Francisco Lempa"
+      "municipio": "San Francisco Lempa",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san francisco lempa",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanfranciscolempa_map.svg"
     },
     {
       "id": 45,
       "departamento": "Chalatenango",
-      "municipio": "San Francisco Moraz√°n"
+      "municipio": "San Francisco Moraz·n",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san francisco morazan",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanfranciscomorazan_map.svg"
     },
     {
       "id": 46,
       "departamento": "Chalatenango",
-      "municipio": "San Ignacio"
+      "municipio": "San Ignacio",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san ignacio",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanignacio_map.svg"
     },
     {
       "id": 47,
       "departamento": "Chalatenango",
-      "municipio": "San Isidro Labrador"
+      "municipio": "San Isidro Labrador",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san isidro labrador",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanisidrolabrador_map.svg"
     },
     {
       "id": 48,
       "departamento": "Chalatenango",
-      "municipio": "San Jos√© Cancasque"
+      "municipio": "San JosÈ Cancasque",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san jose cancasque",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanjosecancasque_map.svg"
     },
     {
       "id": 49,
       "departamento": "Chalatenango",
-      "municipio": "San Jos√© Las Flores"
+      "municipio": "San JosÈ Las Flores",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san jose las flores",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanjoselasflores_map.svg"
     },
     {
       "id": 50,
       "departamento": "Chalatenango",
-      "municipio": "San Luis del Carmen"
+      "municipio": "San Luis del Carmen",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san luis del carmen",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanluisdelcarmen_map.svg"
     },
     {
       "id": 51,
       "departamento": "Chalatenango",
-      "municipio": "San Miguel de Mercedes"
+      "municipio": "San Miguel de Mercedes",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san miguel de mercedes",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanmigueldemercedes_map.svg"
     },
     {
       "id": 52,
       "departamento": "Chalatenango",
-      "municipio": "San Rafael"
+      "municipio": "San Rafael",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "san rafael",
+      "img_municipio": "static/images/municipios/CHALATENANGO/sanrafael_map.svg"
     },
     {
       "id": 53,
       "departamento": "Chalatenango",
-      "municipio": "Santa Rita"
+      "municipio": "Santa Rita",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "santa rita",
+      "img_municipio": "static/images/municipios/CHALATENANGO/santarita_map.svg"
     },
     {
       "id": 54,
       "departamento": "Chalatenango",
-      "municipio": "Tejutla"
+      "municipio": "Tejutla",
+      "departamento_normalizado": "chalatenango",
+      "municipio_normalizado": "tejutla",
+      "img_municipio": "static/images/municipios/CHALATENANGO/tejutla_map.svg"
     }
   ],
-  "Cuscatl√°n": [
+  "CUSCATLAN": [
     {
       "id": 55,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Candelaria"
+      "departamento": "Cuscatl·n",
+      "municipio": "Candelaria",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "candelaria",
+      "img_municipio": "static/images/municipios/CUSCATLAN/candelaria_map.svg"
     },
     {
       "id": 56,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Cojutepeque"
+      "departamento": "Cuscatl·n",
+      "municipio": "Cojutepeque",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "cojutepeque",
+      "img_municipio": "static/images/municipios/CUSCATLAN/cojutepeque_map.svg"
     },
     {
       "id": 57,
-      "departamento": "Cuscatl√°n",
-      "municipio": "El Carmen"
+      "departamento": "Cuscatl·n",
+      "municipio": "El Carmen",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "el carmen",
+      "img_municipio": "static/images/municipios/CUSCATLAN/elcarmen_map.svg"
     },
     {
       "id": 58,
-      "departamento": "Cuscatl√°n",
-      "municipio": "El Rosario"
+      "departamento": "Cuscatl·n",
+      "municipio": "El Rosario",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "el rosario",
+      "img_municipio": "static/images/municipios/CUSCATLAN/elrosario_map.svg"
     },
     {
       "id": 59,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Monte San Juan"
+      "departamento": "Cuscatl·n",
+      "municipio": "Monte San Juan",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "monte san juan",
+      "img_municipio": "static/images/municipios/CUSCATLAN/montesanjuan_map.svg"
     },
     {
       "id": 60,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Oratorio de Concepci√≥n"
+      "departamento": "Cuscatl·n",
+      "municipio": "Oratorio de ConcepciÛn",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "oratorio de concepcion",
+      "img_municipio": "static/images/municipios/CUSCATLAN/oratoriodeconcepcion_map.svg"
     },
     {
       "id": 61,
-      "departamento": "Cuscatl√°n",
-      "municipio": "San Bartolom√© Perulap√≠a"
+      "departamento": "Cuscatl·n",
+      "municipio": "San BartolomÈ PerulapÌa",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "san bartolome perulapia",
+      "img_municipio": "static/images/municipios/CUSCATLAN/sanbartolomeperulapia_map.svg"
     },
     {
       "id": 62,
-      "departamento": "Cuscatl√°n",
-      "municipio": "San Crist√≥bal"
+      "departamento": "Cuscatl·n",
+      "municipio": "San CristÛbal",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "san cristobal",
+      "img_municipio": "static/images/municipios/CUSCATLAN/sancristobal_map.svg"
     },
     {
       "id": 63,
-      "departamento": "Cuscatl√°n",
-      "municipio": "San Jos√© Guayabal"
+      "departamento": "Cuscatl·n",
+      "municipio": "San JosÈ Guayabal",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "san jose guayabal",
+      "img_municipio": "static/images/municipios/CUSCATLAN/sanjoseguayabal_map.svg"
     },
     {
       "id": 64,
-      "departamento": "Cuscatl√°n",
-      "municipio": "San Pedro Perulap√°n"
+      "departamento": "Cuscatl·n",
+      "municipio": "San Pedro Perulap·n",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "san pedro perulapan",
+      "img_municipio": "static/images/municipios/CUSCATLAN/sanpedroperulapan_map.svg"
     },
     {
       "id": 65,
-      "departamento": "Cuscatl√°n",
-      "municipio": "San Rafael Cedros"
+      "departamento": "Cuscatl·n",
+      "municipio": "San Rafael Cedros",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "san rafael cedros",
+      "img_municipio": "static/images/municipios/CUSCATLAN/sanrafaelcedros_map.svg"
     },
     {
       "id": 66,
-      "departamento": "Cuscatl√°n",
-      "municipio": "San Ram√≥n"
+      "departamento": "Cuscatl·n",
+      "municipio": "San RamÛn",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "san ramon",
+      "img_municipio": "static/images/municipios/CUSCATLAN/sanramon_map.svg"
     },
     {
       "id": 67,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Santa Cruz Analquito"
+      "departamento": "Cuscatl·n",
+      "municipio": "Santa Cruz Analquito",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "santa cruz analquito",
+      "img_municipio": "static/images/municipios/CUSCATLAN/santacruzanalquito_map.svg"
     },
     {
       "id": 68,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Santa Cruz Michapa"
+      "departamento": "Cuscatl·n",
+      "municipio": "Santa Cruz Michapa",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "santa cruz michapa",
+      "img_municipio": "static/images/municipios/CUSCATLAN/santacruzmichapa_map.svg"
     },
     {
       "id": 69,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Suchitoto"
+      "departamento": "Cuscatl·n",
+      "municipio": "Suchitoto",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "suchitoto",
+      "img_municipio": "static/images/municipios/CUSCATLAN/suchitoto_map.svg"
     },
     {
       "id": 70,
-      "departamento": "Cuscatl√°n",
-      "municipio": "Tenancingo"
+      "departamento": "Cuscatl·n",
+      "municipio": "Tenancingo",
+      "departamento_normalizado": "cuscatlan",
+      "municipio_normalizado": "tenancingo",
+      "img_municipio": "static/images/municipios/CUSCATLAN/tenancingo_map.svg"
     }
   ],
-  "La Libertad": [
+  "LA LIBERTAD": [
     {
       "id": 71,
       "departamento": "La Libertad",
-      "municipio": "Antiguo Cuscatl√°n"
+      "municipio": "Antiguo Cuscatl·n",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "antiguo cuscatlan",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/antiguocuscatlan_map.svg"
     },
     {
       "id": 72,
       "departamento": "La Libertad",
-      "municipio": "Chiltiup√°n"
+      "municipio": "Chiltiup·n",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "chiltiupan",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/chiltiupan_map.svg"
     },
     {
       "id": 73,
       "departamento": "La Libertad",
-      "municipio": "Ciudad Arce"
+      "municipio": "Ciudad Arce",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "ciudad arce",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/ciudadarce_map.svg"
     },
     {
       "id": 74,
       "departamento": "La Libertad",
-      "municipio": "Col√≥n"
+      "municipio": "ColÛn",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "colon",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/colon_map.svg"
     },
     {
       "id": 75,
       "departamento": "La Libertad",
-      "municipio": "Comasagua"
+      "municipio": "Comasagua",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "comasagua",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/comasagua_map.svg"
     },
     {
       "id": 76,
       "departamento": "La Libertad",
-      "municipio": "Huiz√∫car"
+      "municipio": "Huiz˙car",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "huizucar",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/huizucar_map.svg"
     },
     {
       "id": 77,
       "departamento": "La Libertad",
-      "municipio": "Jayaque"
+      "municipio": "Jayaque",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "jayaque",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/jayaque_map.svg"
     },
     {
       "id": 78,
       "departamento": "La Libertad",
-      "municipio": "Jicalapa"
+      "municipio": "Jicalapa",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "jicalapa",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/jicalapa_map.svg"
     },
     {
       "id": 79,
       "departamento": "La Libertad",
-      "municipio": "La Libertad"
+      "municipio": "La Libertad",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "la libertad",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/lalibertad_map.svg"
     },
     {
       "id": 80,
       "departamento": "La Libertad",
-      "municipio": "Nuevo Cuscatl√°n"
+      "municipio": "Nuevo Cuscatl·n",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "nuevo cuscatlan",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/nuevocuscatlan_map.svg"
     },
     {
       "id": 81,
       "departamento": "La Libertad",
-      "municipio": "Quezaltepeque"
+      "municipio": "Quezaltepeque",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "quezaltepeque",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/quezaltepeque_map.svg"
     },
     {
       "id": 82,
       "departamento": "La Libertad",
-      "municipio": "Sacacoyo"
+      "municipio": "Sacacoyo",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "sacacoyo",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/sacacoyo_map.svg"
     },
     {
       "id": 83,
       "departamento": "La Libertad",
-      "municipio": "San Jos√© Villanueva"
+      "municipio": "San JosÈ Villanueva",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "san jose villanueva",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/sanjosevillanueva_map.svg"
     },
     {
       "id": 84,
       "departamento": "La Libertad",
-      "municipio": "San Juan Opico"
+      "municipio": "San Juan Opico",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "san juan opico",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/sanjuanopico_map.svg"
     },
     {
       "id": 85,
       "departamento": "La Libertad",
-      "municipio": "San Mat√≠as"
+      "municipio": "San MatÌas",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "san matias",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/sanmatias_map.svg"
     },
     {
       "id": 86,
       "departamento": "La Libertad",
-      "municipio": "San Pablo Tacachico"
+      "municipio": "San Pablo Tacachico",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "san pablo tacachico",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/sanpablotacachico_map.svg"
     },
     {
       "id": 87,
       "departamento": "La Libertad",
-      "municipio": "Santa Tecla"
+      "municipio": "Santa Tecla",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "santa tecla",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/santatecla_map.svg"
     },
     {
       "id": 88,
       "departamento": "La Libertad",
-      "municipio": "Talnique"
+      "municipio": "Talnique",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "talnique",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/talnique_map.svg"
     },
     {
       "id": 89,
       "departamento": "La Libertad",
-      "municipio": "Tamanique"
+      "municipio": "Tamanique",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "tamanique",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/tamanique_map.svg"
     },
     {
       "id": 90,
       "departamento": "La Libertad",
-      "municipio": "Teotepeque"
+      "municipio": "Teotepeque",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "teotepeque",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/teotepeque_map.svg"
     },
     {
       "id": 91,
       "departamento": "La Libertad",
-      "municipio": "Tepecoyo"
+      "municipio": "Tepecoyo",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "tepecoyo",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/tepecoyo_map.svg"
     },
     {
       "id": 92,
       "departamento": "La Libertad",
-      "municipio": "Zaragoza"
+      "municipio": "Zaragoza",
+      "departamento_normalizado": "la libertad",
+      "municipio_normalizado": "zaragoza",
+      "img_municipio": "static/images/municipios/LA%20LIBERTAD/zaragoza_map.svg"
     }
   ],
-  "La Paz": [
+  "LA PAZ": [
     {
       "id": 93,
       "departamento": "La Paz",
-      "municipio": "Cuyultit√°n"
+      "municipio": "Cuyultit·n",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "cuyultitan",
+      "img_municipio": "static/images/municipios/LA%20PAZ/cuyultitan_map.svg"
     },
     {
       "id": 94,
       "departamento": "La Paz",
-      "municipio": "El Rosario"
+      "municipio": "El Rosario",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "el rosario",
+      "img_municipio": "static/images/municipios/LA%20PAZ/elrosario_map.svg"
     },
     {
       "id": 95,
       "departamento": "La Paz",
-      "municipio": "Jerusal√©n"
+      "municipio": "JerusalÈn",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "jerusalen",
+      "img_municipio": "static/images/municipios/LA%20PAZ/jerusalen_map.svg"
     },
     {
       "id": 96,
       "departamento": "La Paz",
-      "municipio": "Mercedes La Ceiba"
+      "municipio": "Mercedes La Ceiba",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "mercedes la ceiba",
+      "img_municipio": "static/images/municipios/LA%20PAZ/mercedeslaceiba_map.svg"
     },
     {
       "id": 97,
       "departamento": "La Paz",
-      "municipio": "Olocuilta"
+      "municipio": "Olocuilta",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "olocuilta",
+      "img_municipio": "static/images/municipios/LA%20PAZ/olocuilta_map.svg"
     },
     {
       "id": 98,
       "departamento": "La Paz",
-      "municipio": "Para√≠so de Osorio"
+      "municipio": "ParaÌso de Osorio",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "paraiso de osorio",
+      "img_municipio": "static/images/municipios/LA%20PAZ/paraisodeosorio_map.svg"
     },
     {
       "id": 99,
       "departamento": "La Paz",
-      "municipio": "San Antonio Masahuat"
+      "municipio": "San Antonio Masahuat",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san antonio masahuat",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanantoniomasahuat_map.svg"
     },
     {
       "id": 100,
       "departamento": "La Paz",
-      "municipio": "San Emigdio"
+      "municipio": "San Emigdio",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san emigdio",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanemigdio_map.svg"
     },
     {
       "id": 101,
       "departamento": "La Paz",
-      "municipio": "San Francisco Chinameca"
+      "municipio": "San Francisco Chinameca",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san francisco chinameca",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanfranciscochinameca_map.svg"
     },
     {
       "id": 102,
       "departamento": "La Paz",
-      "municipio": "San Juan Nonualco"
+      "municipio": "San Juan Nonualco",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san juan nonualco",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanjuannonualco_map.svg"
     },
     {
       "id": 103,
       "departamento": "La Paz",
-      "municipio": "San Juan Talpa"
+      "municipio": "San Juan Talpa",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san juan talpa",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanjuantalpa_map.svg"
     },
     {
       "id": 104,
       "departamento": "La Paz",
-      "municipio": "San Juan Tepezontes"
+      "municipio": "San Juan Tepezontes",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san juan tepezontes",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanjuantepezontes_map.svg"
     },
     {
       "id": 105,
       "departamento": "La Paz",
-      "municipio": "San Luis La Herradura"
+      "municipio": "San Luis La Herradura",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san luis la herradura",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanluislaherradura_map.svg"
     },
     {
       "id": 106,
       "departamento": "La Paz",
-      "municipio": "San Luis Talpa"
+      "municipio": "San Luis Talpa",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san luis talpa",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanluistalpa_map.svg"
     },
     {
       "id": 107,
       "departamento": "La Paz",
-      "municipio": "San Miguel Tepezontes"
+      "municipio": "San Miguel Tepezontes",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san miguel tepezontes",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanmigueltepezontes_map.svg"
     },
     {
       "id": 108,
       "departamento": "La Paz",
-      "municipio": "San Pedro Masahuat"
+      "municipio": "San Pedro Masahuat",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san pedro masahuat",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanpedromasahuat_map.svg"
     },
     {
       "id": 109,
       "departamento": "La Paz",
-      "municipio": "San Pedro Nonualco"
+      "municipio": "San Pedro Nonualco",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san pedro nonualco",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanpedrononualco_map.svg"
     },
     {
       "id": 110,
       "departamento": "La Paz",
-      "municipio": "San Rafael Obrajuelo"
+      "municipio": "San Rafael Obrajuelo",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "san rafael obrajuelo",
+      "img_municipio": "static/images/municipios/LA%20PAZ/sanrafaelobrajuelo_map.svg"
     },
     {
       "id": 111,
       "departamento": "La Paz",
-      "municipio": "Santa Mar√≠a Ostuma"
+      "municipio": "Santa MarÌa Ostuma",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "santa maria ostuma",
+      "img_municipio": "static/images/municipios/LA%20PAZ/santamariaostuma_map.svg"
     },
     {
       "id": 112,
       "departamento": "La Paz",
-      "municipio": "Santiago Nonualco"
+      "municipio": "Santiago Nonualco",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "santiago nonualco",
+      "img_municipio": "static/images/municipios/LA%20PAZ/santiagononualco_map.svg"
     },
     {
       "id": 113,
       "departamento": "La Paz",
-      "municipio": "Tapalhuaca"
+      "municipio": "Tapalhuaca",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "tapalhuaca",
+      "img_municipio": "static/images/municipios/LA%20PAZ/tapalhuaca_map.svg"
     },
     {
       "id": 114,
       "departamento": "La Paz",
-      "municipio": "Zacatecoluca"
+      "municipio": "Zacatecoluca",
+      "departamento_normalizado": "la paz",
+      "municipio_normalizado": "zacatecoluca",
+      "img_municipio": "static/images/municipios/LA%20PAZ/zacatecoluca_map.svg"
     }
   ],
-  "La Uni√≥n": [
+  "LA UNION": [
     {
       "id": 115,
-      "departamento": "La Uni√≥n",
-      "municipio": "Anamor√≥s"
+      "departamento": "La UniÛn",
+      "municipio": "AnamorÛs",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "anamoros",
+      "img_municipio": "static/images/municipios/LA%20UNION/anamoros_map.svg"
     },
     {
       "id": 116,
-      "departamento": "La Uni√≥n",
-      "municipio": "Bol√≠var"
+      "departamento": "La UniÛn",
+      "municipio": "BolÌvar",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "bolivar",
+      "img_municipio": "static/images/municipios/LA%20UNION/bolivar_map.svg"
     },
     {
       "id": 117,
-      "departamento": "La Uni√≥n",
-      "municipio": "Concepci√≥n de Oriente"
+      "departamento": "La UniÛn",
+      "municipio": "ConcepciÛn de Oriente",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "concepcion de oriente",
+      "img_municipio": "static/images/municipios/LA%20UNION/concepciondeoriente_map.svg"
     },
     {
       "id": 118,
-      "departamento": "La Uni√≥n",
-      "municipio": "Conchagua"
+      "departamento": "La UniÛn",
+      "municipio": "Conchagua",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "conchagua",
+      "img_municipio": "static/images/municipios/LA%20UNION/conchagua_map.svg"
     },
     {
       "id": 119,
-      "departamento": "La Uni√≥n",
-      "municipio": "El Carmen"
+      "departamento": "La UniÛn",
+      "municipio": "El Carmen",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "el carmen",
+      "img_municipio": "static/images/municipios/LA%20UNION/elcarmen_map.svg"
     },
     {
       "id": 120,
-      "departamento": "La Uni√≥n",
-      "municipio": "El Sauce"
+      "departamento": "La UniÛn",
+      "municipio": "El Sauce",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "el sauce",
+      "img_municipio": "static/images/municipios/LA%20UNION/elsauce_map.svg"
     },
     {
       "id": 121,
-      "departamento": "La Uni√≥n",
-      "municipio": "Intipuc√°"
+      "departamento": "La UniÛn",
+      "municipio": "Intipuc·",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "intipuca",
+      "img_municipio": "static/images/municipios/LA%20UNION/intipuca_map.svg"
     },
     {
       "id": 122,
-      "departamento": "La Uni√≥n",
-      "municipio": "La Uni√≥n"
+      "departamento": "La UniÛn",
+      "municipio": "La UniÛn",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "la union",
+      "img_municipio": "static/images/municipios/LA%20UNION/launion_map.svg"
     },
     {
       "id": 123,
-      "departamento": "La Uni√≥n",
-      "municipio": "Lislique"
+      "departamento": "La UniÛn",
+      "municipio": "Lislique",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "lislique",
+      "img_municipio": "static/images/municipios/LA%20UNION/lislique_map.svg"
     },
     {
       "id": 124,
-      "departamento": "La Uni√≥n",
-      "municipio": "Meanguera del Golfo"
+      "departamento": "La UniÛn",
+      "municipio": "Meanguera del Golfo",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "meanguera del golfo",
+      "img_municipio": "static/images/municipios/LA%20UNION/meangueradelgolfo_map.svg"
     },
     {
       "id": 125,
-      "departamento": "La Uni√≥n",
-      "municipio": "Nueva Esparta"
+      "departamento": "La UniÛn",
+      "municipio": "Nueva Esparta",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "nueva esparta",
+      "img_municipio": "static/images/municipios/LA%20UNION/nuevaesparta_map.svg"
     },
     {
       "id": 126,
-      "departamento": "La Uni√≥n",
-      "municipio": "Pasaquina"
+      "departamento": "La UniÛn",
+      "municipio": "Pasaquina",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "pasaquina",
+      "img_municipio": "static/images/municipios/LA%20UNION/pasaquina_map.svg"
     },
     {
       "id": 127,
-      "departamento": "La Uni√≥n",
-      "municipio": "Polor√≥s"
+      "departamento": "La UniÛn",
+      "municipio": "PolorÛs",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "poloros",
+      "img_municipio": "static/images/municipios/LA%20UNION/poloros_map.svg"
     },
     {
       "id": 128,
-      "departamento": "La Uni√≥n",
-      "municipio": "San Alejo"
+      "departamento": "La UniÛn",
+      "municipio": "San Alejo",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "san alejo",
+      "img_municipio": "static/images/municipios/LA%20UNION/sanalejo_map.svg"
     },
     {
       "id": 129,
-      "departamento": "La Uni√≥n",
-      "municipio": "San Jos√©"
+      "departamento": "La UniÛn",
+      "municipio": "San JosÈ",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "san jose la fuente",
+      "img_municipio": "static/images/municipios/LA%20UNION/sanjoselafuente_map.svg"
     },
     {
       "id": 130,
-      "departamento": "La Uni√≥n",
-      "municipio": "Santa Rosa de Lima"
+      "departamento": "La UniÛn",
+      "municipio": "Santa Rosa de Lima",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "santa rosa de lima",
+      "img_municipio": "static/images/municipios/LA%20UNION/santarosadelima_map.svg"
     },
     {
       "id": 131,
-      "departamento": "La Uni√≥n",
-      "municipio": "Yayantique"
+      "departamento": "La UniÛn",
+      "municipio": "Yayantique",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "yayantique",
+      "img_municipio": "static/images/municipios/LA%20UNION/yayantique_map.svg"
     },
     {
       "id": 132,
-      "departamento": "La Uni√≥n",
-      "municipio": "Yucuaiqu√≠n"
+      "departamento": "La UniÛn",
+      "municipio": "YucuaiquÌn",
+      "departamento_normalizado": "la union",
+      "municipio_normalizado": "yucuaiquin",
+      "img_municipio": "static/images/municipios/LA%20UNION/yucuaiquin_map.svg"
     }
   ],
-  "Moraz√°n": [
+  "MORAZAN": [
     {
       "id": 133,
-      "departamento": "Moraz√°n",
-      "municipio": "Torola"
+      "departamento": "Moraz·n",
+      "municipio": "Arambala",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "arambala",
+      "img_municipio": "static/images/municipios/MORAZAN/arambala_map.svg"
     },
     {
       "id": 134,
-      "departamento": "Moraz√°n",
-      "municipio": "Arambala"
+      "departamento": "Moraz·n",
+      "municipio": "Cacaopera",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "cacaopera",
+      "img_municipio": "static/images/municipios/MORAZAN/cacaopera_map.svg"
     },
     {
       "id": 135,
-      "departamento": "Moraz√°n",
-      "municipio": "Cacaopera"
+      "departamento": "Moraz·n",
+      "municipio": "Chilanga",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "chilanga",
+      "img_municipio": "static/images/municipios/MORAZAN/chilanga_map.svg"
     },
     {
       "id": 136,
-      "departamento": "Moraz√°n",
-      "municipio": "Chilanga"
+      "departamento": "Moraz·n",
+      "municipio": "Corinto",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "corinto",
+      "img_municipio": "static/images/municipios/MORAZAN/corinto_map.svg"
     },
     {
       "id": 137,
-      "departamento": "Moraz√°n",
-      "municipio": "Corinto"
+      "departamento": "Moraz·n",
+      "municipio": "Delicias de ConcepciÛn",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "delicias de concepcion",
+      "img_municipio": "static/images/municipios/MORAZAN/deliciasdeconcepcion_map.svg"
     },
     {
       "id": 138,
-      "departamento": "Moraz√°n",
-      "municipio": "Delicias de Concepci√≥n"
+      "departamento": "Moraz·n",
+      "municipio": "El Divisadero",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "el divisadero",
+      "img_municipio": "static/images/municipios/MORAZAN/eldivisadero_map.svg"
     },
     {
       "id": 139,
-      "departamento": "Moraz√°n",
-      "municipio": "El Divisadero"
+      "departamento": "Moraz·n",
+      "municipio": "El Rosario",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "el rosario",
+      "img_municipio": "static/images/municipios/MORAZAN/elrosario_map.svg"
     },
     {
       "id": 140,
-      "departamento": "Moraz√°n",
-      "municipio": "El Rosario"
+      "departamento": "Moraz·n",
+      "municipio": "Gualococti",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "gualococti",
+      "img_municipio": "static/images/municipios/MORAZAN/gualococti_map.svg"
     },
     {
       "id": 141,
-      "departamento": "Moraz√°n",
-      "municipio": "Gualococti"
+      "departamento": "Moraz·n",
+      "municipio": "Guatajiagua",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "guatajiagua",
+      "img_municipio": "static/images/municipios/MORAZAN/guatajiagua_map.svg"
     },
     {
       "id": 142,
-      "departamento": "Moraz√°n",
-      "municipio": "Guatajiagua"
+      "departamento": "Moraz·n",
+      "municipio": "Joateca",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "joateca",
+      "img_municipio": "static/images/municipios/MORAZAN/joateca_map.svg"
     },
     {
       "id": 143,
-      "departamento": "Moraz√°n",
-      "municipio": "Joateca"
+      "departamento": "Moraz·n",
+      "municipio": "Jocoaitique",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "jocoaitique",
+      "img_municipio": "static/images/municipios/MORAZAN/jocoaitique_map.svg"
     },
     {
       "id": 144,
-      "departamento": "Moraz√°n",
-      "municipio": "Jocoaitique"
+      "departamento": "Moraz·n",
+      "municipio": "Jocoro",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "jocoro",
+      "img_municipio": "static/images/municipios/MORAZAN/jocoro_map.svg"
     },
     {
       "id": 145,
-      "departamento": "Moraz√°n",
-      "municipio": "Jocoro"
+      "departamento": "Moraz·n",
+      "municipio": "Lolotiquillo",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "lolotiquillo",
+      "img_municipio": "static/images/municipios/MORAZAN/lolotiquillo_map.svg"
     },
     {
       "id": 146,
-      "departamento": "Moraz√°n",
-      "municipio": "Lolotiquillo"
+      "departamento": "Moraz·n",
+      "municipio": "Meanguera",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "meanguera",
+      "img_municipio": "static/images/municipios/MORAZAN/meanguera_map.svg"
     },
     {
       "id": 147,
-      "departamento": "Moraz√°n",
-      "municipio": "Meanguera"
+      "departamento": "Moraz·n",
+      "municipio": "Osicala",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "osicala",
+      "img_municipio": "static/images/municipios/MORAZAN/osicala_map.svg"
     },
     {
       "id": 148,
-      "departamento": "Moraz√°n",
-      "municipio": "Osicala"
+      "departamento": "Moraz·n",
+      "municipio": "PerquÌn",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "perquin",
+      "img_municipio": "static/images/municipios/MORAZAN/perquin_map.svg"
     },
     {
       "id": 149,
-      "departamento": "Moraz√°n",
-      "municipio": "Perqu√≠n"
+      "departamento": "Moraz·n",
+      "municipio": "San Carlos",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "san carlos",
+      "img_municipio": "static/images/municipios/MORAZAN/sancarlos_map.svg"
     },
     {
       "id": 150,
-      "departamento": "Moraz√°n",
-      "municipio": "San Carlos"
+      "departamento": "Moraz·n",
+      "municipio": "San Fernando",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "san fernando",
+      "img_municipio": "static/images/municipios/MORAZAN/sanfernando_map.svg"
     },
     {
       "id": 151,
-      "departamento": "Moraz√°n",
-      "municipio": "San Fernando"
+      "departamento": "Moraz·n",
+      "municipio": "San Francisco Gotera",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "san francisco gotera",
+      "img_municipio": "static/images/municipios/MORAZAN/sanfranciscogotera_map.svg"
     },
     {
       "id": 152,
-      "departamento": "Moraz√°n",
-      "municipio": "San Francisco Gotera"
+      "departamento": "Moraz·n",
+      "municipio": "San Isidro",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "san isidro",
+      "img_municipio": "static/images/municipios/MORAZAN/sanisidro_map.svg"
     },
     {
       "id": 153,
-      "departamento": "Moraz√°n",
-      "municipio": "San Isidro"
+      "departamento": "Moraz·n",
+      "municipio": "San SimÛn",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "san simon",
+      "img_municipio": "static/images/municipios/MORAZAN/sansimon_map.svg"
     },
     {
       "id": 154,
-      "departamento": "Moraz√°n",
-      "municipio": "San Sim√≥n"
+      "departamento": "Moraz·n",
+      "municipio": "Sensembra",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "sensembra",
+      "img_municipio": "static/images/municipios/MORAZAN/sensembra_map.svg"
     },
     {
       "id": 155,
-      "departamento": "Moraz√°n",
-      "municipio": "Sensembra"
+      "departamento": "Moraz·n",
+      "municipio": "Sociedad",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "sociedad",
+      "img_municipio": "static/images/municipios/MORAZAN/sociedad_map.svg"
     },
     {
       "id": 156,
-      "departamento": "Moraz√°n",
-      "municipio": "Sociedad"
+      "departamento": "Moraz·n",
+      "municipio": "Torola",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "torola",
+      "img_municipio": "static/images/municipios/MORAZAN/torola_map.svg"
     },
     {
       "id": 157,
-      "departamento": "Moraz√°n",
-      "municipio": "Yamabal"
+      "departamento": "Moraz·n",
+      "municipio": "Yamabal",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "yamabal",
+      "img_municipio": "static/images/municipios/MORAZAN/yamabal_map.svg"
     },
     {
       "id": 158,
-      "departamento": "Moraz√°n",
-      "municipio": "Yoloaiqu√≠n"
+      "departamento": "Moraz·n",
+      "municipio": "YoloaiquÌn",
+      "departamento_normalizado": "morazan",
+      "municipio_normalizado": "yoloaiquin",
+      "img_municipio": "static/images/municipios/MORAZAN/yoloaiquin_map.svg"
     }
   ],
-  "San Miguel": [
+  "SAN MIGUEL": [
     {
       "id": 159,
       "departamento": "San Miguel",
-      "municipio": "Carolina"
+      "municipio": "Carolina",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "carolina",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/carolina_map.svg"
     },
     {
       "id": 160,
       "departamento": "San Miguel",
-      "municipio": "Chapeltique"
+      "municipio": "Chapeltique",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "chapeltique",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/chapeltique_map.svg"
     },
     {
       "id": 161,
       "departamento": "San Miguel",
-      "municipio": "Chinameca"
+      "municipio": "Chinameca",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "chinameca",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/chinameca_map.svg"
     },
     {
       "id": 162,
       "departamento": "San Miguel",
-      "municipio": "Chirilagua"
+      "municipio": "Chirilagua",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "chirilagua",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/chirilagua_map.svg"
     },
     {
       "id": 163,
       "departamento": "San Miguel",
-      "municipio": "Ciudad Barrios"
+      "municipio": "Ciudad Barrios",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "ciudad barrios",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/ciudadbarrios_map.svg"
     },
     {
       "id": 164,
       "departamento": "San Miguel",
-      "municipio": "Comacar√°n"
+      "municipio": "Comacar·n",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "comacaran",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/comacaran_map.svg"
     },
     {
       "id": 165,
       "departamento": "San Miguel",
-      "municipio": "El Tr√°nsito"
+      "municipio": "El Tr·nsito",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "el transito",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/eltransito_map.svg"
     },
     {
       "id": 166,
       "departamento": "San Miguel",
-      "municipio": "Lolotique"
+      "municipio": "Lolotique",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "lolotique",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/lolotique_map.svg"
     },
     {
       "id": 167,
       "departamento": "San Miguel",
-      "municipio": "Moncagua"
+      "municipio": "Moncagua",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "moncagua",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/moncagua_map.svg"
     },
     {
       "id": 168,
       "departamento": "San Miguel",
-      "municipio": "Nueva Guadalupe"
+      "municipio": "Nueva Guadalupe",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "nueva guadalupe",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/nuevaguadalupe_map.svg"
     },
     {
       "id": 169,
       "departamento": "San Miguel",
-      "municipio": "Nuevo Ed√©n de San Juan"
+      "municipio": "Nuevo EdÈn de San Juan",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "nuevo eden de san juan",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/nuevoedendesanjuan_map.svg"
     },
     {
       "id": 170,
       "departamento": "San Miguel",
-      "municipio": "Quelepa"
+      "municipio": "Quelepa",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "quelepa",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/quelepa_map.svg"
     },
     {
       "id": 171,
       "departamento": "San Miguel",
-      "municipio": "San Antonio del Mosco"
+      "municipio": "San Antonio",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "san antonio",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/sanantonio_map.svg"
     },
     {
       "id": 172,
       "departamento": "San Miguel",
-      "municipio": "San Gerardo"
+      "municipio": "San Gerardo",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "san gerardo",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/sangerardo_map.svg"
     },
     {
       "id": 173,
       "departamento": "San Miguel",
-      "municipio": "San Jorge"
+      "municipio": "San Jorge",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "san jorge",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/sanjorge_map.svg"
     },
     {
       "id": 174,
       "departamento": "San Miguel",
-      "municipio": "San Luis de la Reina"
+      "municipio": "San Luis de la Reina",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "san luis de la reina",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/sanluisdelareina_map.svg"
     },
     {
       "id": 175,
       "departamento": "San Miguel",
-      "municipio": "San Miguel"
+      "municipio": "San Miguel",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "san miguel",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/sanmiguel_map.svg"
     },
     {
       "id": 176,
       "departamento": "San Miguel",
-      "municipio": "San Rafael Oriente"
+      "municipio": "San Rafael Oriente",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "san rafael oriente",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/sanrafaeloriente_map.svg"
     },
     {
       "id": 177,
       "departamento": "San Miguel",
-      "municipio": "Sesori"
+      "municipio": "Sesori",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "sesori",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/sesori_map.svg"
     },
     {
       "id": 178,
       "departamento": "San Miguel",
-      "municipio": "Uluazapa"
+      "municipio": "Uluazapa",
+      "departamento_normalizado": "san miguel",
+      "municipio_normalizado": "uluazapa",
+      "img_municipio": "static/images/municipios/SAN%20MIGUEL/uluazapa_map.svg"
     }
   ],
-  "San Salvador": [
+  "SAN SALVADOR": [
     {
       "id": 179,
       "departamento": "San Salvador",
-      "municipio": "Aguilares"
+      "municipio": "Aguilares",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "aguilares",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/aguilares_map.svg"
     },
     {
       "id": 180,
       "departamento": "San Salvador",
-      "municipio": "Apopa"
+      "municipio": "Apopa",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "apopa",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/apopa_map.svg"
     },
     {
       "id": 181,
       "departamento": "San Salvador",
-      "municipio": "Ayutuxtepeque"
+      "municipio": "Ayutuxtepeque",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "ayutuxtepeque",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/ayutuxtepeque_map.svg"
     },
     {
       "id": 182,
       "departamento": "San Salvador",
-      "municipio": "Ciudad Delgado"
+      "municipio": "Ciudad Delgado",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "ciudad delgado",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/ciudaddelgado_map.svg"
     },
     {
       "id": 183,
       "departamento": "San Salvador",
-      "municipio": "Cuscatancingo"
+      "municipio": "Cuscatancingo",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "cuscatancingo",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/cuscatancingo_map.svg"
     },
     {
       "id": 184,
       "departamento": "San Salvador",
-      "municipio": "El Paisnal"
+      "municipio": "El Paisnal",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "el paisnal",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/elpaisnal_map.svg"
     },
     {
       "id": 185,
       "departamento": "San Salvador",
-      "municipio": "Guazapa"
+      "municipio": "Guazapa",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "guazapa",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/guazapa_map.svg"
     },
     {
       "id": 186,
       "departamento": "San Salvador",
-      "municipio": "Ilopango"
+      "municipio": "Ilopango",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "ilopango",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/ilopango_map.svg"
     },
     {
       "id": 187,
       "departamento": "San Salvador",
-      "municipio": "Mejicanos"
+      "municipio": "Mejicanos",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "mejicanos",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/mejicanos_map.svg"
     },
     {
       "id": 188,
       "departamento": "San Salvador",
-      "municipio": "Nejapa"
+      "municipio": "Nejapa",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "nejapa",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/nejapa_map.svg"
     },
     {
       "id": 189,
       "departamento": "San Salvador",
-      "municipio": "Panchimalco"
+      "municipio": "Panchimalco",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "panchimalco",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/panchimalco_map.svg"
     },
     {
       "id": 190,
       "departamento": "San Salvador",
-      "municipio": "Rosario de Mora"
+      "municipio": "Rosario de Mora",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "rosario de mora",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/rosariodemora_map.svg"
     },
     {
       "id": 191,
       "departamento": "San Salvador",
-      "municipio": "San Marcos"
+      "municipio": "San Marcos",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "san marcos",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/sanmarcos_map.svg"
     },
     {
       "id": 192,
       "departamento": "San Salvador",
-      "municipio": "San Mart√≠n"
+      "municipio": "San MartÌn",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "san martin",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/sanmartin_map.svg"
     },
     {
       "id": 193,
       "departamento": "San Salvador",
-      "municipio": "San Salvador"
+      "municipio": "San Salvador",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "san salvador",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/sansalvador_map.svg"
     },
     {
       "id": 194,
       "departamento": "San Salvador",
-      "municipio": "Santiago Texacuangos"
+      "municipio": "Santiago Texacuangos",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "santiago texacuangos",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/santiagotexacuangos_map.svg"
     },
     {
       "id": 195,
       "departamento": "San Salvador",
-      "municipio": "Santo Tom√°s"
+      "municipio": "Santo Tom·s",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "santo tomas",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/santotomas_map.svg"
     },
     {
       "id": 196,
       "departamento": "San Salvador",
-      "municipio": "Soyapango"
+      "municipio": "Soyapango",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "soyapango",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/soyapango_map.svg"
     },
     {
       "id": 197,
       "departamento": "San Salvador",
-      "municipio": "Tonacatepeque"
+      "municipio": "Tonacatepeque",
+      "departamento_normalizado": "san salvador",
+      "municipio_normalizado": "tonacatepeque",
+      "img_municipio": "static/images/municipios/SAN%20SALVADOR/tonacatepeque_map.svg"
     }
   ],
-  "San Vicente": [
+  "SAN VICENTE": [
     {
       "id": 198,
       "departamento": "San Vicente",
-      "municipio": "Apastepeque"
+      "municipio": "Apastepeque",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "apastepeque",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/apastepeque_map.svg"
     },
     {
       "id": 199,
       "departamento": "San Vicente",
-      "municipio": "Guadalupe"
+      "municipio": "Guadalupe",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "guadalupe",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/guadalupe_map.svg"
     },
     {
       "id": 200,
       "departamento": "San Vicente",
-      "municipio": "San Cayetano Istepeque"
+      "municipio": "San Cayetano Istepeque",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "san cayetano istepeque",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/sancayetanoistepeque_map.svg"
     },
     {
       "id": 201,
       "departamento": "San Vicente",
-      "municipio": "San Esteban Catarina"
+      "municipio": "San Esteban Catarina",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "san esteban catarina",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/sanestebancatarina_map.svg"
     },
     {
       "id": 202,
       "departamento": "San Vicente",
-      "municipio": "San Ildefonso"
+      "municipio": "San Ildefonso",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "san ildefonso",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/sanildefonso_map.svg"
     },
     {
       "id": 203,
       "departamento": "San Vicente",
-      "municipio": "San Lorenzo"
+      "municipio": "San Lorenzo",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "san lorenzo",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/sanlorenzo_map.svg"
     },
     {
       "id": 204,
       "departamento": "San Vicente",
-      "municipio": "San Sebasti√°n"
+      "municipio": "San Sebasti·n",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "san sebastian",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/sansebastian_map.svg"
     },
     {
       "id": 205,
       "departamento": "San Vicente",
-      "municipio": "San Vicente"
+      "municipio": "San Vicente",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "san vicente",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/sanvicente_map.svg"
     },
     {
       "id": 206,
       "departamento": "San Vicente",
-      "municipio": "Santa Clara"
+      "municipio": "Santa Clara",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "santa clara",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/santaclara_map.svg"
     },
     {
       "id": 207,
       "departamento": "San Vicente",
-      "municipio": "Santo Domingo"
+      "municipio": "Santo Domingo",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "santo domingo",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/santodomingo_map.svg"
     },
     {
       "id": 208,
       "departamento": "San Vicente",
-      "municipio": "Tecoluca"
+      "municipio": "Tecoluca",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "tecoluca",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/tecoluca_map.svg"
     },
     {
       "id": 209,
       "departamento": "San Vicente",
-      "municipio": "Tepetit√°n"
+      "municipio": "Tepetit·n",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "tepetitan",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/tepetitan_map.svg"
     },
     {
       "id": 210,
       "departamento": "San Vicente",
-      "municipio": "Verapaz"
+      "municipio": "Verapaz",
+      "departamento_normalizado": "san vicente",
+      "municipio_normalizado": "verapaz",
+      "img_municipio": "static/images/municipios/SAN%20VICENTE/verapaz_map.svg"
     }
   ],
-  "Santa Ana": [
+  "SANTA ANA": [
     {
       "id": 211,
       "departamento": "Santa Ana",
-      "municipio": "Candelaria de la Frontera"
+      "municipio": "Candelaria de la Frontera",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "candelaria de la frontera",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/candelariadelafrontera_map.svg"
     },
     {
       "id": 212,
       "departamento": "Santa Ana",
-      "municipio": "Chalchuapa"
+      "municipio": "Chalchuapa",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "chalchuapa",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/chalchuapa_map.svg"
     },
     {
       "id": 213,
       "departamento": "Santa Ana",
-      "municipio": "Coatepeque"
+      "municipio": "Coatepeque",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "coatepeque",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/coatepeque_map.svg"
     },
     {
       "id": 214,
       "departamento": "Santa Ana",
-      "municipio": "El Congo"
+      "municipio": "El Congo",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "el congo",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/elcongo_map.svg"
     },
     {
       "id": 215,
       "departamento": "Santa Ana",
-      "municipio": "El Porvenir"
+      "municipio": "El Porvenir",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "el porvenir",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/elporvenir_map.svg"
     },
     {
       "id": 216,
       "departamento": "Santa Ana",
-      "municipio": "Masahuat"
+      "municipio": "Masahuat",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "masahuat",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/masahuat_map.svg"
     },
     {
       "id": 217,
       "departamento": "Santa Ana",
-      "municipio": "Metap√°n"
+      "municipio": "Metap·n",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "metapan",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/metapan_map.svg"
     },
     {
       "id": 218,
       "departamento": "Santa Ana",
-      "municipio": "San Antonio Pajonal"
+      "municipio": "San Antonio Pajonal",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "san antonio pajonal",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/sanantoniopajonal_map.svg"
     },
     {
       "id": 219,
       "departamento": "Santa Ana",
-      "municipio": "San Sebasti√°n Salitrillo"
+      "municipio": "San Sebasti·n Salitrillo",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "san sebastian salitrillo",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/sansebastiansalitrillo_map.svg"
     },
     {
       "id": 220,
       "departamento": "Santa Ana",
-      "municipio": "Santa Ana"
+      "municipio": "Santa Ana",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "santa ana",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/santaana_map.svg"
     },
     {
       "id": 221,
       "departamento": "Santa Ana",
-      "municipio": "Santa Rosa Guachipil√≠n"
+      "municipio": "Santa Rosa GuachipilÌn",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "santa rosa guachipilin",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/santarosaguachipilin_map.svg"
     },
     {
       "id": 222,
       "departamento": "Santa Ana",
-      "municipio": "Santiago de la Frontera"
+      "municipio": "Santiago de la Frontera",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "santiago de la frontera",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/santiagodelafrontera_map.svg"
     },
     {
       "id": 223,
       "departamento": "Santa Ana",
-      "municipio": "Texistepeque"
+      "municipio": "Texistepeque",
+      "departamento_normalizado": "santa ana",
+      "municipio_normalizado": "texistepeque",
+      "img_municipio": "static/images/municipios/SANTA%20ANA/texistepeque_map.svg"
     }
   ],
-  "Sonsonate": [
+  "SONSONATE": [
     {
       "id": 224,
       "departamento": "Sonsonate",
-      "municipio": "Acajutla"
+      "municipio": "Acajutla",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "acajutla",
+      "img_municipio": "static/images/municipios/SONSONATE/acajutla_map.svg"
     },
     {
       "id": 225,
       "departamento": "Sonsonate",
-      "municipio": "Armenia"
+      "municipio": "Armenia",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "armenia",
+      "img_municipio": "static/images/municipios/SONSONATE/armenia_map.svg"
     },
     {
       "id": 226,
       "departamento": "Sonsonate",
-      "municipio": "Caluco"
+      "municipio": "Caluco",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "caluco",
+      "img_municipio": "static/images/municipios/SONSONATE/caluco_map.svg"
     },
     {
       "id": 227,
       "departamento": "Sonsonate",
-      "municipio": "Cuisnahuat"
+      "municipio": "Cuisnahuat",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "cuisnahuat",
+      "img_municipio": "static/images/municipios/SONSONATE/cuisnahuat_map.svg"
     },
     {
       "id": 228,
       "departamento": "Sonsonate",
-      "municipio": "Izalco"
+      "municipio": "Izalco",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "izalco",
+      "img_municipio": "static/images/municipios/SONSONATE/izalco_map.svg"
     },
     {
       "id": 229,
       "departamento": "Sonsonate",
-      "municipio": "Juay√∫a"
+      "municipio": "Juay˙a",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "juayua",
+      "img_municipio": "static/images/municipios/SONSONATE/juayua_map.svg"
     },
     {
       "id": 230,
       "departamento": "Sonsonate",
-      "municipio": "Nahuizalco"
+      "municipio": "Nahuizalco",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "nahuilingo",
+      "img_municipio": "static/images/municipios/SONSONATE/nahuilingo_map.svg"
     },
     {
       "id": 231,
       "departamento": "Sonsonate",
-      "municipio": "Nahulingo"
+      "municipio": "Nahulingo",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "nahuizalco",
+      "img_municipio": "static/images/municipios/SONSONATE/nahuizalco_map.svg"
     },
     {
       "id": 232,
       "departamento": "Sonsonate",
-      "municipio": "Salcoatit√°n"
+      "municipio": "Salcoatit·n",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "salcoatitan",
+      "img_municipio": "static/images/municipios/SONSONATE/salcoatitan_map.svg"
     },
     {
       "id": 233,
       "departamento": "Sonsonate",
-      "municipio": "San Antonio del Monte"
+      "municipio": "San Antonio del Monte",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "san antonio del monte",
+      "img_municipio": "static/images/municipios/SONSONATE/sanantoniodelmonte_map.svg"
     },
     {
       "id": 234,
       "departamento": "Sonsonate",
-      "municipio": "San Juli√°n"
+      "municipio": "San Juli·n",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "san julian",
+      "img_municipio": "static/images/municipios/SONSONATE/sanjulian_map.svg"
     },
     {
       "id": 235,
       "departamento": "Sonsonate",
-      "municipio": "Santa Catarina Masahuat"
+      "municipio": "Santa Catarina Masahuat",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "santa catarina masahuat",
+      "img_municipio": "static/images/municipios/SONSONATE/santacatarinamasahuat_map.svg"
     },
     {
       "id": 236,
       "departamento": "Sonsonate",
-      "municipio": "Santa Isabel Ishuat√°n"
+      "municipio": "Santa Isabel Ishuat·n",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "santa isabel ishuatan",
+      "img_municipio": "static/images/municipios/SONSONATE/santaisabelishuatan_map.svg"
     },
     {
       "id": 237,
       "departamento": "Sonsonate",
-      "municipio": "Santo Domingo Guzm√°n"
+      "municipio": "Santo Domingo Guzm·n",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "santo domingo de guzman",
+      "img_municipio": "static/images/municipios/SONSONATE/santodomingodeguzman_map.svg"
     },
     {
       "id": 238,
       "departamento": "Sonsonate",
-      "municipio": "Sonsonate"
+      "municipio": "Sonsonate",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "sonsonate",
+      "img_municipio": "static/images/municipios/SONSONATE/sonsonate_map.svg"
     },
     {
       "id": 239,
       "departamento": "Sonsonate",
-      "municipio": "Sonzacate"
+      "municipio": "Sonzacate",
+      "departamento_normalizado": "sonsonate",
+      "municipio_normalizado": "sonzacate",
+      "img_municipio": "static/images/municipios/SONSONATE/sonzacate_map.svg"
     }
   ],
-  "Usulut√°n": [
+  "USULUTAN": [
     {
       "id": 240,
-      "departamento": "Usulut√°n",
-      "municipio": "Alegr√≠a"
+      "departamento": "Usulut·n",
+      "municipio": "AlegrÌa",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "alegria",
+      "img_municipio": "static/images/municipios/USULUTAN/alegria_map.svg"
     },
     {
       "id": 241,
-      "departamento": "Usulut√°n",
-      "municipio": "Berl√≠n"
+      "departamento": "Usulut·n",
+      "municipio": "BerlÌn",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "berlin",
+      "img_municipio": "static/images/municipios/USULUTAN/berlin_map.svg"
     },
     {
       "id": 242,
-      "departamento": "Usulut√°n",
-      "municipio": "California"
+      "departamento": "Usulut·n",
+      "municipio": "California",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "california",
+      "img_municipio": "static/images/municipios/USULUTAN/california_map.svg"
     },
     {
       "id": 243,
-      "departamento": "Usulut√°n",
-      "municipio": "Concepci√≥n Batres"
+      "departamento": "Usulut·n",
+      "municipio": "ConcepciÛn Batres",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "concepcion batres",
+      "img_municipio": "static/images/municipios/USULUTAN/concepcionbatres_map.svg"
     },
     {
       "id": 244,
-      "departamento": "Usulut√°n",
-      "municipio": "El Triunfo"
+      "departamento": "Usulut·n",
+      "municipio": "El Triunfo",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "el triunfo",
+      "img_municipio": "static/images/municipios/USULUTAN/eltriunfo_map.svg"
     },
     {
       "id": 245,
-      "departamento": "Usulut√°n",
-      "municipio": "Ereguayqu√≠n"
+      "departamento": "Usulut·n",
+      "municipio": "EreguayquÌn",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "ereguayquin",
+      "img_municipio": "static/images/municipios/USULUTAN/ereguayquin_map.svg"
     },
     {
       "id": 246,
-      "departamento": "Usulut√°n",
-      "municipio": "Estanzuelas"
+      "departamento": "Usulut·n",
+      "municipio": "Estanzuelas",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "estanzuelas",
+      "img_municipio": "static/images/municipios/USULUTAN/estanzuelas_map.svg"
     },
     {
       "id": 247,
-      "departamento": "Usulut√°n",
-      "municipio": "Jiquilisco"
+      "departamento": "Usulut·n",
+      "municipio": "Jiquilisco",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "jiquilisco",
+      "img_municipio": "static/images/municipios/USULUTAN/jiquilisco_map.svg"
     },
     {
       "id": 248,
-      "departamento": "Usulut√°n",
-      "municipio": "Jucuapa"
+      "departamento": "Usulut·n",
+      "municipio": "Jucuapa",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "jucuapa",
+      "img_municipio": "static/images/municipios/USULUTAN/jucuapa_map.svg"
     },
     {
       "id": 249,
-      "departamento": "Usulut√°n",
-      "municipio": "Jucuar√°n"
+      "departamento": "Usulut·n",
+      "municipio": "Jucuar·n",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "jucuaran",
+      "img_municipio": "static/images/municipios/USULUTAN/jucuaran_map.svg"
     },
     {
       "id": 250,
-      "departamento": "Usulut√°n",
-      "municipio": "Mercedes Uma√±a"
+      "departamento": "Usulut·n",
+      "municipio": "Mercedes UmaÒa",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "mercedes umana",
+      "img_municipio": "static/images/municipios/USULUTAN/mercedesumana_map.svg"
     },
     {
       "id": 251,
-      "departamento": "Usulut√°n",
-      "municipio": "Nueva Granada"
+      "departamento": "Usulut·n",
+      "municipio": "Nueva Granada",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "nueva granada",
+      "img_municipio": "static/images/municipios/USULUTAN/nuevagranada_map.svg"
     },
     {
       "id": 252,
-      "departamento": "Usulut√°n",
-      "municipio": "Ozatl√°n"
+      "departamento": "Usulut·n",
+      "municipio": "Ozatl·n",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "ozatlan",
+      "img_municipio": "static/images/municipios/USULUTAN/ozatlan_map.svg"
     },
     {
       "id": 253,
-      "departamento": "Usulut√°n",
-      "municipio": "Puerto El Triunfo"
+      "departamento": "Usulut·n",
+      "municipio": "Puerto El Triunfo",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "puerto el triunfo",
+      "img_municipio": "static/images/municipios/USULUTAN/puertoeltriunfo_map.svg"
     },
     {
       "id": 254,
-      "departamento": "Usulut√°n",
-      "municipio": "San Agust√≠n"
+      "departamento": "Usulut·n",
+      "municipio": "San AgustÌn",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "san agustin",
+      "img_municipio": "static/images/municipios/USULUTAN/sanagustin_map.svg"
     },
     {
       "id": 255,
-      "departamento": "Usulut√°n",
-      "municipio": "San Buenaventura"
+      "departamento": "Usulut·n",
+      "municipio": "San Buenaventura",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "san buenaventura",
+      "img_municipio": "static/images/municipios/USULUTAN/sanbuenaventura_map.svg"
     },
     {
       "id": 256,
-      "departamento": "Usulut√°n",
-      "municipio": "San Dionisio"
+      "departamento": "Usulut·n",
+      "municipio": "San Dionisio",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "san dionisio",
+      "img_municipio": "static/images/municipios/USULUTAN/sandionisio_map.svg"
     },
     {
       "id": 257,
-      "departamento": "Usulut√°n",
-      "municipio": "San Francisco Javier"
+      "departamento": "Usulut·n",
+      "municipio": "San Francisco Javier",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "san francisco javier",
+      "img_municipio": "static/images/municipios/USULUTAN/sanfranciscojavier_map.svg"
     },
     {
       "id": 258,
-      "departamento": "Usulut√°n",
-      "municipio": "Santa Elena"
+      "departamento": "Usulut·n",
+      "municipio": "Santa Elena",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "santa elena",
+      "img_municipio": "static/images/municipios/USULUTAN/santaelena_map.svg"
     },
     {
       "id": 259,
-      "departamento": "Usulut√°n",
-      "municipio": "Santa Mar√≠a"
+      "departamento": "Usulut·n",
+      "municipio": "Santa MarÌa",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "santa maria",
+      "img_municipio": "static/images/municipios/USULUTAN/santamaria_map.svg"
     },
     {
       "id": 260,
-      "departamento": "Usulut√°n",
-      "municipio": "Santiago de Mar√≠a"
+      "departamento": "Usulut·n",
+      "municipio": "Santiago de MarÌa",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "santiago de maria",
+      "img_municipio": "static/images/municipios/USULUTAN/santiagodemaria_map.svg"
     },
     {
       "id": 261,
-      "departamento": "Usulut√°n",
-      "municipio": "Tecap√°n"
+      "departamento": "Usulut·n",
+      "municipio": "Tecap·n",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "tecapan",
+      "img_municipio": "static/images/municipios/USULUTAN/tecapan_map.svg"
     },
     {
       "id": 262,
-      "departamento": "Usulut√°n",
-      "municipio": "Usulut√°n"
+      "departamento": "Usulut·n",
+      "municipio": "Usulut·n",
+      "departamento_normalizado": "usulutan",
+      "municipio_normalizado": "usulutan",
+      "img_municipio": "static/images/municipios/USULUTAN/usulutan_map.svg"
     }
   ]
 }

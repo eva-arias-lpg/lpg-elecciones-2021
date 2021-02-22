@@ -1,0 +1,28 @@
+{
+  "id": 102,
+  "departamento": "La Paz",
+  "municipio": "San Francisco Chinameca",
+  "img_municipio": "static/images/municipios/LA%20PAZ/sanfranciscochinameca_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
+    }
+  }
+}

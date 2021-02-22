@@ -1,0 +1,11 @@
+{
+    "departamento": "San Vicente",
+    "municipio": "San Vicente",
+    "img_municipio": "static\/images\/municipios\/SAN VICENTE\/sanvicente_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

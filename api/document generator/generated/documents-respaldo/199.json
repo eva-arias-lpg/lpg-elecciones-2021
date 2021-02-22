@@ -1,0 +1,11 @@
+{
+    "departamento": "San Vicente",
+    "municipio": "Guadalupe",
+    "img_municipio": "static\/images\/municipios\/SAN VICENTE\/guadalupe_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

@@ -1,11 +1,39 @@
 {
-    "departamento": "San Salvador",
-    "municipio": "San Mart\u00edn",
-    "img_municipio": "static\/images\/municipios\/SAN SALVADOR\/sanmartin_map.svg",
-    "ganador": {
-        "partido": null,
-        "img_partido": "resources\/banderas\/art_flag.svg",
-        "id_partido": null,
-        "candidato": null
+  "id": 192,
+  "departamento": "San Salvador",
+  "municipio": "San Martín",
+  "municipio_normalizado": "san martin",
+  "departamento_normalizado": "san salvador",
+  "img_municipio": "static/images/municipios/SAN%20SALVADOR/sanmartin_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "NUESTRO_TIEMPO": {
+      "img_bandera": "/resources/banderas/NT_flag.svg"
+    },
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "NUEVAS_IDEAS": {
+      "img_bandera": "/resources/banderas/NI_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "PCN": {
+      "img_bandera": "/resources/banderas/PCN_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
     }
+  }
 }

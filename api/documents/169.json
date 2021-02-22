@@ -1,11 +1,42 @@
 {
-    "departamento": "San Miguel",
-    "municipio": "Nuevo Ed\u00e9n de San Juan",
-    "img_municipio": "static\/images\/municipios\/SAN MIGUEL\/nuevoedendesanjuan_map.svg",
-    "ganador": {
-        "partido": null,
-        "img_partido": "resources\/banderas\/art_flag.svg",
-        "id_partido": null,
-        "candidato": null
+  "id": 169,
+  "departamento": "San Miguel",
+  "municipio": "Nuevo Edén de San Juan",
+  "municipio_normalizado": "nuevo eden de san juan",
+  "departamento_normalizado": "san miguel",
+  "img_municipio": "static/images/municipios/SAN%20MIGUEL/nuevoedendesanjuan_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "NUESTRO_TIEMPO": {
+      "img_bandera": "/resources/banderas/NT_flag.svg"
+    },
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "NUEVAS_IDEAS": {
+      "img_bandera": "/resources/banderas/NI_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "PCN": {
+      "img_bandera": "/resources/banderas/PCN_flag.svg"
+    },
+    "GANA": {
+      "img_bandera": "/resources/banderas/GANA_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
     }
+  }
 }

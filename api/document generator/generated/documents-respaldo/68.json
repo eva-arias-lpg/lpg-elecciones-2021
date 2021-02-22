@@ -1,0 +1,11 @@
+{
+    "departamento": "Cuscatl\u00e1n",
+    "municipio": "Santa Cruz Michapa",
+    "img_municipio": "static\/images\/municipios\/CUSCATLAN\/santacruzmichapa_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

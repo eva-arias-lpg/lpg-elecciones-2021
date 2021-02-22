@@ -1,0 +1,11 @@
+{
+    "departamento": "San Miguel",
+    "municipio": "Ciudad Barrios",
+    "img_municipio": "static\/images\/municipios\/SAN MIGUEL\/ciudadbarrios_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

@@ -1,11 +1,39 @@
 {
-    "departamento": "San Miguel",
-    "municipio": "San Miguel",
-    "img_municipio": "static\/images\/municipios\/SAN MIGUEL\/sanmiguel_map.svg",
-    "ganador": {
-        "partido": null,
-        "img_partido": "resources\/banderas\/art_flag.svg",
-        "id_partido": null,
-        "candidato": null
+  "id": 175,
+  "departamento": "San Miguel",
+  "municipio": "San Miguel",
+  "municipio_normalizado": "san miguel",
+  "departamento_normalizado": "san miguel",
+  "img_municipio": "static/images/municipios/SAN%20MIGUEL/sanmiguel_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "NUESTRO_TIEMPO": {
+      "img_bandera": "/resources/banderas/NT_flag.svg"
+    },
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "NUEVAS_IDEAS": {
+      "img_bandera": "/resources/banderas/NI_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "PCN": {
+      "img_bandera": "/resources/banderas/PCN_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
     }
+  }
 }

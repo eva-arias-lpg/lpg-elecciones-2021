@@ -1,0 +1,11 @@
+{
+    "departamento": "La Uni\u00f3n",
+    "municipio": "La Uni\u00f3n",
+    "img_municipio": "static\/images\/municipios\/LA UNION\/launion_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

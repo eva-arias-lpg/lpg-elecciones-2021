@@ -1,11 +1,42 @@
 {
-    "departamento": "Usulut\u00e1n",
-    "municipio": "Estanzuelas",
-    "img_municipio": "static\/images\/municipios\/USULUTAN\/estanzuelas_map.svg",
-    "ganador": {
-        "partido": null,
-        "img_partido": "resources\/banderas\/art_flag.svg",
-        "id_partido": null,
-        "candidato": null
+  "id": 246,
+  "departamento": "Usulután",
+  "municipio": "Estanzuelas",
+  "municipio_normalizado": "estanzuelas",
+  "departamento_normalizado": "usulutan",
+  "img_municipio": "static/images/municipios/USULUTAN/estanzuelas_map.svg",
+  "ganador": {
+    "partido": null,
+    "candidato": null,
+    "img_partido": null
+  },
+  "partidos_participantes": {
+    "NUESTRO_TIEMPO": {
+      "img_bandera": "/resources/banderas/NT_flag.svg"
+    },
+    "FMLN": {
+      "img_bandera": "/resources/banderas/FMLN_flag.svg"
+    },
+    "NUEVAS_IDEAS": {
+      "img_bandera": "/resources/banderas/NI_flag.svg"
+    },
+    "PDC": {
+      "img_bandera": "/resources/banderas/PDC_flag.svg"
+    },
+    "VAMOS": {
+      "img_bandera": "/resources/banderas/VAMOS_flag.svg"
+    },
+    "PCN": {
+      "img_bandera": "/resources/banderas/PCN_flag.svg"
+    },
+    "GANA": {
+      "img_bandera": "/resources/banderas/GANA_flag.svg"
+    },
+    "CD": {
+      "img_bandera": "/resources/banderas/CD_flag.svg"
+    },
+    "ARENA": {
+      "img_bandera": "/resources/banderas/ARENA_flag.svg"
     }
+  }
 }

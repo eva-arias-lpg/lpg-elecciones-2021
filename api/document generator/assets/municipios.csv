@@ -1,0 +1,263 @@
+idMunicipio;numero;Departamento;Municipio;NUESTRO TIEMPO;FMLN;NUEVAS IDEAS;PDC;VAMOS;PCN;GANA;CD;ARENA;dpto_desc;muni_desc
+1;1;ahuachapan;ahuachapan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Ahuachapán;Ahuachapán
+2;2;ahuachapan;apaneca;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Ahuachapán;Apaneca
+3;3;ahuachapan;atiquizaya;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Ahuachapán;Atiquizaya
+4;4;ahuachapan;concepcion-de-ataco;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Ahuachapán;Concepción de Ataco
+5;5;ahuachapan;el-refugio;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Ahuachapán;El Refugio
+6;6;ahuachapan;guaymango;;FMLN;;PDC;VAMOS;;GANA;CD;ARENA;Ahuachapán;Guaymango
+7;7;ahuachapan;jujutla;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Ahuachapán;Jujutla
+8;8;ahuachapan;san-francisco-menendez;;FMLN;;PDC;VAMOS;;GANA;CD;ARENA;Ahuachapán;San Francisco Menéndez
+9;9;ahuachapan;san-lorenzo;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;Ahuachapán;San Lorenzo
+10;10;ahuachapan;san-pedro-puxtla;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Ahuachapán;San Pedro Puxtla
+11;11;ahuachapan;tacuba;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Ahuachapán;Tacuba
+12;12;ahuachapan;turin;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Ahuachapán;Turín
+13;2;cabanas;cinquera;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cabañas;Cinquera
+14;3;cabanas;dolores;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Cabañas;Dolores
+15;4;cabanas;guacotecti;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cabañas;Guacotecti
+16;5;cabanas;ilobasco;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cabañas;Ilobasco
+17;6;cabanas;jutiapa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cabañas;Jutiapa
+18;7;cabanas;san-isidro;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Cabañas;San Isidro
+19;1;cabanas;sensuntepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cabañas;Sensuntepeque
+20;8;cabanas;tejutepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cabañas;Tejutepeque
+21;9;cabanas;victoria;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cabañas;Victoria
+22;2;chalatenango;agua-caliente;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;Agua Caliente
+23;3;chalatenango;arcatao;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;Arcatao
+24;4;chalatenango;azacualpa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;Azacualpa
+25;1;chalatenango;chalatenango;;FMLN;N;PDC;VAMOS;;;CD;ARENA;Chalatenango;Chalatenango
+26;6;chalatenango;citala;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;Citalá
+27;7;chalatenango;comalapa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;Comalapa
+28;8;chalatenango;concepcion-quezaltepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;Concepción Quezaltepeque
+29;9;chalatenango;dulce-nombre-de-maria;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;Dulce Nombre de María
+30;10;chalatenango;el-carrizal;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;El Carrizal
+31;11;chalatenango;el-paraiso;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;El Paraíso
+32;12;chalatenango;la-laguna;;FMLN;N;PDC;VAMOS;;GANA;CD;;Chalatenango;La Laguna
+33;13;chalatenango;la-palma;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;La Palma
+34;14;chalatenango;la-reina;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;Chalatenango;La Reina
+35;16;chalatenango;las-vueltas;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;Chalatenango;Las Vueltas
+36;17;chalatenango;nombre-de-jesus;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;Nombre de Jesús
+37;18;chalatenango;nueva-concepcion;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;Nueva Concepción
+38;19;chalatenango;nueva-trinidad;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;Nueva Trinidad
+39;20;chalatenango;ojos-de-agua;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;Ojos de Agua
+40;21;chalatenango;potonico;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;Chalatenango;Potonico
+41;22;chalatenango;san-antonio-de-la-cruz;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;San Antonio de la Cruz
+42;23;chalatenango;san-antonio-los-ranchos;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;San Antonio Los Ranchos
+43;24;chalatenango;san-fernando;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;San Fernando
+44;25;chalatenango;san-francisco-lempa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;San Francisco Lempa
+45;26;chalatenango;san-francisco-morazan;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;San Francisco Morazán
+46;27;chalatenango;san-ignacio;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;Chalatenango;San Ignacio
+47;28;chalatenango;san-isidro-labrador;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;San Isidro Labrador
+48;5;chalatenango;san-jose-cancasque;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;San José Cancasque
+49;15;chalatenango;san-jose-las-flores;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;San José Las Flores
+50;29;chalatenango;san-luis-del-carmen;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Chalatenango;San Luis del Carmen
+51;30;chalatenango;san-miguel-de-mercedes;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;San Miguel de Mercedes
+52;31;chalatenango;san-rafael;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Chalatenango;San Rafael
+53;32;chalatenango;santa-rita;;FMLN;;PDC;VAMOS;;;CD;ARENA;Chalatenango;Santa Rita
+54;33;chalatenango;tejutla;;FMLN;;PDC;VAMOS;;GANA;;;Chalatenango;Tejutla
+55;2;cuscatlan;candelaria;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;Candelaria
+56;1;cuscatlan;cojutepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;Cojutepeque
+57;3;cuscatlan;el-carmen;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;El Carmen
+58;4;cuscatlan;el-rosario;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;El Rosario
+59;5;cuscatlan;monte-san-juan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;Monte San Juan
+60;6;cuscatlan;oratorio-de-concepcion;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;Oratorio de Concepción
+61;7;cuscatlan;san-bartolome-perulapia;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Cuscatlán;San Bartolomé Perulapía
+62;8;cuscatlan;san-cristobal;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Cuscatlán;San Cristóbal
+63;9;cuscatlan;san-jose-guayabal;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;San José Guayabal
+64;10;cuscatlan;san-pedro-perulapan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;San Pedro Perulapán
+65;11;cuscatlan;san-rafael-cedros;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;San Rafael Cedros
+66;12;cuscatlan;san-ramon;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;San Ramón
+67;13;cuscatlan;santa-cruz-analquito;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Cuscatlán;Santa Cruz Analquito
+68;14;cuscatlan;santa-cruz-michapa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;Santa Cruz Michapa
+69;15;cuscatlan;suchitoto;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;Suchitoto
+70;16;cuscatlan;tenancingo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Cuscatlán;Tenancingo
+71;2;la-libertad;antiguo-cuscatlan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Antiguo Cuscatlán
+72;3;la-libertad;chiltiupan;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Libertad;Chiltiupán
+73;4;la-libertad;ciudad-arce;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Ciudad Arce
+74;5;la-libertad;colon;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Colón
+75;6;la-libertad;comasagua;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Comasagua
+76;7;la-libertad;huizucar;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Libertad;Huizúcar
+77;8;la-libertad;jayaque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Jayaque
+78;9;la-libertad;jicalapa;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Libertad;Jicalapa
+79;10;la-libertad;la-libertad;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;La Libertad
+80;11;la-libertad;nuevo-cuscatlan;;FMLN;;PDC;VAMOS;PCN;;;ARENA;La Libertad;Nuevo Cuscatlán
+81;12;la-libertad;quezaltepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Quezaltepeque
+82;14;la-libertad;sacacoyo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Sacacoyo
+83;15;la-libertad;san-jose-villanueva;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;San José Villanueva
+84;13;la-libertad;san-juan-opico;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;San Juan Opico
+85;16;la-libertad;san-matias;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;San Matías
+86;17;la-libertad;san-pablo-tacachico;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;La Libertad;San Pablo Tacachico
+87;1;la-libertad;santa-tecla;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Santa Tecla
+88;18;la-libertad;talnique;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;La Libertad;Talnique
+89;19;la-libertad;tamanique;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Tamanique
+90;20;la-libertad;teotepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Teotepeque
+91;21;la-libertad;tepecoyo;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Libertad;Tepecoyo
+92;22;la-libertad;zaragoza;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Libertad;Zaragoza
+93;2;la-paz;cuyultitan;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;Cuyultitán
+94;3;la-paz;el-rosario;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Paz;El Rosario
+95;4;la-paz;jerusalen;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;Jerusalén
+96;5;la-paz;mercedes-la-ceiba;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;Mercedes La Ceiba
+97;6;la-paz;olocuilta;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Paz;Olocuilta
+98;7;la-paz;paraiso-de-osorio;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;Paraíso de Osorio
+99;8;la-paz;san-antonio-masahuat;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Antonio Masahuat
+100;9;la-paz;san-emigdio;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Emigdio
+101;10;la-paz;san-francisco-chinameca;;FMLN;;PDC;VAMOS;;;CD;ARENA;La Paz;San Francisco Chinameca
+102;12;la-paz;san-juan-nonualco;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Juan Nonualco
+103;13;la-paz;san-juan-talpa;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Juan Talpa
+104;14;la-paz;san-juan-tepezontes;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Juan Tepezontes
+105;15;la-paz;san-luis-la-herradura;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Luis La Herradura
+106;16;la-paz;san-luis-talpa;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Luis Talpa
+107;17;la-paz;san-miguel-tepezontes;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Miguel Tepezontes
+108;11;la-paz;san-pedro-masahuat;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;La Paz;San Pedro Masahuat
+109;18;la-paz;san-pedro-nonualco;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;San Pedro Nonualco
+110;19;la-paz;san-rafael-obrajuelo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Paz;San Rafael Obrajuelo
+111;20;la-paz;santa-maria-ostuma;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;Santa María Ostuma
+112;21;la-paz;santiago-nonualco;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;Santiago Nonualco
+113;22;la-paz;tapalhuaca;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Paz;Tapalhuaca
+114;1;la-paz;zacatecoluca;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Paz;Zacatecoluca
+115;2;la-union;anamoros;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;Anamorós
+116;3;la-union;bolivar;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;Bolívar
+117;4;la-union;concepcion-de-oriente;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;Concepción de Oriente
+118;5;la-union;conchagua;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;Conchagua
+119;6;la-union;el-carmen;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;El Carmen
+120;7;la-union;el-sauce;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;El Sauce
+121;8;la-union;intipuca;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;Intipucá
+122;1;la-union;la-union;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;La Unión
+123;9;la-union;lislique;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;Lislique
+124;10;la-union;meanguera-del-golfo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;Meanguera del Golfo
+125;11;la-union;nueva-esparta;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;Nueva Esparta
+126;12;la-union;pasaquina;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;Pasaquina
+127;13;la-union;poloros;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;Polorós
+128;14;la-union;san-alejo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;La Unión;San Alejo
+129;15;la-union;san-jose-la-fuente;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;San José
+130;16;la-union;santa-rosa-de-lima;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;Santa Rosa de Lima
+131;17;la-union;yayantique;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;Yayantique
+132;18;la-union;yucuaiquin;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;La Unión;Yucuaiquín
+133;2;morazan;arambala;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Arambala
+134;3;morazan;cacaopera;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Cacaopera
+135;4;morazan;chilanga;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Chilanga
+136;5;morazan;corinto;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Corinto
+137;6;morazan;delicias-de-concepcion;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Delicias de Concepción
+138;7;morazan;el-divisadero;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;El Divisadero
+139;8;morazan;el-rosario;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Morazán;El Rosario
+140;9;morazan;gualococti;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Gualococti
+141;10;morazan;guatajiagua;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Guatajiagua
+142;11;morazan;joateca;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Joateca
+143;12;morazan;jocoaitique;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Jocoaitique
+144;13;morazan;jocoro;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Jocoro
+145;14;morazan;lolotiquillo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Lolotiquillo
+146;15;morazan;meanguera;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Meanguera
+147;16;morazan;osicala;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Osicala
+148;17;morazan;perquin;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Perquín
+149;18;morazan;san-carlos;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;San Carlos
+150;19;morazan;san-fernando;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;San Fernando
+151;1;morazan;san-francisco-gotera;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;San Francisco Gotera
+152;20;morazan;san-isidro;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;San Isidro
+153;21;morazan;san-simon;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;San Simón
+154;22;morazan;sensembra;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Sensembra
+155;23;morazan;sociedad;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Sociedad
+156;24;morazan;torola;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Morazán;Torola
+157;25;morazan;yamabal;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Yamabal
+158;26;morazan;yoloaiquin;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Morazán;Yoloaiquín
+159;2;san-miguel;carolina;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Carolina
+160;3;san-miguel;chapeltique;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Chapeltique
+161;4;san-miguel;chinameca;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Chinameca
+162;5;san-miguel;chirilagua;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Chirilagua
+163;6;san-miguel;ciudad-barrios;;FMLN;N;;VAMOS;PCN;GANA;;ARENA;San Miguel;Ciudad Barrios
+164;7;san-miguel;comacaran;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Comacarán
+165;8;san-miguel;el-transito;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;El Tránsito
+166;9;san-miguel;lolotique;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Lolotique
+167;10;san-miguel;moncagua;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Moncagua
+168;11;san-miguel;nueva-guadalupe;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Nueva Guadalupe
+169;12;san-miguel;nuevo-eden-de-san-juan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Nuevo Edén de San Juan
+170;13;san-miguel;quelepa;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Miguel;Quelepa
+171;14;san-miguel;san-antonio;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;San Antonio
+172;15;san-miguel;san-gerardo;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Miguel;San Gerardo
+173;16;san-miguel;san-jorge;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;San Jorge
+174;17;san-miguel;san-luis-de-la-reina;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;San Luis de la Reina
+175;1;san-miguel;san-miguel;NUESTRO TIEMPO;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;San Miguel;San Miguel
+176;18;san-miguel;san-rafael-oriente;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;San Rafael Oriente
+177;19;san-miguel;sesori;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Sesori
+178;20;san-miguel;uluazapa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Miguel;Uluazapa
+179;2;san-salvador;aguilares;NUESTRO TIEMPO;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Aguilares
+180;3;san-salvador;apopa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Apopa
+181;4;san-salvador;ayutuxtepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Ayutuxtepeque
+182;6;san-salvador;ciudad-delgado;NUESTRO TIEMPO;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Ciudad Delgado
+183;5;san-salvador;cuscatancingo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Cuscatancingo
+184;7;san-salvador;el-paisnal;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;El Paisnal
+185;8;san-salvador;guazapa;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Salvador;Guazapa
+186;9;san-salvador;ilopango;NUESTRO TIEMPO;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Ilopango
+187;10;san-salvador;mejicanos;NUESTRO TIEMPO;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Salvador;Mejicanos
+188;11;san-salvador;nejapa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Nejapa
+189;12;san-salvador;panchimalco;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Panchimalco
+190;13;san-salvador;rosario-de-mora;;FMLN;N;PDC;VAMOS;PCN;GANA;;;San Salvador;Rosario de Mora
+191;14;san-salvador;san-marcos;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;San Marcos
+192;15;san-salvador;san-martin;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;San Salvador;San Martín
+193;1;san-salvador;san-salvador;NUESTRO TIEMPO;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;San Salvador;San Salvador
+194;16;san-salvador;santiago-texacuangos;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Santiago Texacuangos
+195;17;san-salvador;santo-tomas;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Santo Tomás
+196;18;san-salvador;soyapango;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Soyapango
+197;19;san-salvador;tonacatepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Salvador;Tonacatepeque
+198;2;san-vicente;apastepeque;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Vicente;Apastepeque
+199;3;san-vicente;guadalupe;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Vicente;Guadalupe
+200;4;san-vicente;san-cayetano-istepeque;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Vicente;San Cayetano Istepeque
+201;5;san-vicente;san-esteban-catarina;;FMLN;;PDC;VAMOS;;GANA;;;San Vicente;San Esteban Catarina
+202;6;san-vicente;san-ildefonso;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Vicente;San Ildefonso
+203;7;san-vicente;san-lorenzo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Vicente;San Lorenzo
+204;8;san-vicente;san-sebastian;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Vicente;San Sebastián
+205;1;san-vicente;san-vicente;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Vicente;San Vicente
+206;9;san-vicente;santa-clara;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Vicente;Santa Clara
+207;10;san-vicente;santo-domingo;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Vicente;Santo Domingo
+208;11;san-vicente;tecoluca;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Vicente;Tecoluca
+209;12;san-vicente;tepetitan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;San Vicente;Tepetitán
+210;13;san-vicente;verapaz;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;San Vicente;Verapaz
+211;2;santa-ana;candelaria-de-la-frontera;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Candelaria de la Frontera
+212;3;santa-ana;chalchuapa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Chalchuapa
+213;4;santa-ana;coatepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Coatepeque
+214;5;santa-ana;el-congo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;El Congo
+215;6;santa-ana;el-porvenir;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;El Porvenir
+216;7;santa-ana;masahuat;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Masahuat
+217;8;santa-ana;metapan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Metapán
+218;9;santa-ana;san-antonio-pajonal;;FMLN;;PDC;VAMOS;PCN;;CD;ARENA;Santa Ana;San Antonio Pajonal
+219;10;santa-ana;san-sebastian-salitrillo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;San Sebastián Salitrillo
+220;1;santa-ana;santa-ana;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Santa Ana
+221;11;santa-ana;santa-rosa-guachipilin;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Santa Rosa Guachipilín
+222;12;santa-ana;santiago-de-la-frontera;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Santiago de la Frontera
+223;13;santa-ana;texistepeque;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Santa Ana;Texistepeque
+224;2;sonsonate;acajutla;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Sonsonate;Acajutla
+225;3;sonsonate;armenia;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Armenia
+226;4;sonsonate;caluco;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Sonsonate;Caluco
+227;5;sonsonate;cuisnahuat;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Sonsonate;Cuisnahuat
+228;6;sonsonate;izalco;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Izalco
+229;7;sonsonate;juayua;NUESTRO TIEMPO;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Juayúa
+230;9;sonsonate;nahuilingo;;FMLN;;PDC;VAMOS;PCN;GANA;;ARENA;Sonsonate;Nahuizalco
+231;8;sonsonate;nahuizalco;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Nahulingo
+232;10;sonsonate;salcoatitan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Salcoatitán
+233;11;sonsonate;san-antonio-del-monte;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;San Antonio del Monte
+234;12;sonsonate;san-julian;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;San Julián
+235;13;sonsonate;santa-catarina-masahuat;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Santa Catarina Masahuat
+236;14;sonsonate;santa-isabel-ishuatan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Santa Isabel Ishuatán
+237;15;sonsonate;santo-domingo-de-guzman;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Santo Domingo Guzmán
+238;1;sonsonate;sonsonate;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Sonsonate
+239;16;sonsonate;sonzacate;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Sonsonate;Sonzacate
+240;2;usulutan;alegria;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Alegría
+241;3;usulutan;berlin;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Berlín
+242;4;usulutan;california;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;California
+243;5;usulutan;concepcion-batres;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Concepción Batres
+244;6;usulutan;el-triunfo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;El Triunfo
+245;7;usulutan;ereguayquin;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Ereguayquín
+246;8;usulutan;estanzuelas;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Estanzuelas
+247;9;usulutan;jiquilisco;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Jiquilisco
+248;10;usulutan;jucuapa;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Jucuapa
+249;11;usulutan;jucuaran;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Jucuarán
+250;12;usulutan;mercedes-umana;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Mercedes Umaña
+251;13;usulutan;nueva-granada;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Nueva Granada
+252;14;usulutan;ozatlan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Ozatlán
+253;15;usulutan;puerto-el-triunfo;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Puerto El Triunfo
+254;16;usulutan;san-agustin;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;San Agustín
+255;17;usulutan;san-buenaventura;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;San Buenaventura
+256;18;usulutan;san-dionisio;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;San Dionisio
+257;19;usulutan;san-francisco-javier;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;San Francisco Javier
+258;20;usulutan;santa-elena;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Santa Elena
+259;21;usulutan;santa-maria;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Santa María
+260;22;usulutan;santiago-de-maria;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Santiago de María
+261;23;usulutan;tecapan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Tecapán
+262;1;usulutan;usulutan;;FMLN;N;PDC;VAMOS;PCN;GANA;CD;ARENA;Usulután;Usulután

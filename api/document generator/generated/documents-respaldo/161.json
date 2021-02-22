@@ -1,0 +1,11 @@
+{
+    "departamento": "San Miguel",
+    "municipio": "Chinameca",
+    "img_municipio": "static\/images\/municipios\/SAN MIGUEL\/chinameca_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

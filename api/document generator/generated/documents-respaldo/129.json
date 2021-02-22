@@ -1,0 +1,11 @@
+{
+    "departamento": "La Uni\u00f3n",
+    "municipio": "San Jos\u00e9",
+    "img_municipio": "static\/images\/municipios\/LA UNION\/sanjose_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

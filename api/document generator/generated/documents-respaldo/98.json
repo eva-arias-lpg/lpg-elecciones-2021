@@ -1,0 +1,11 @@
+{
+    "departamento": "La Paz",
+    "municipio": "Para\u00edso de Osorio",
+    "img_municipio": "static\/images\/municipios\/LA PAZ\/paraisodeosorio_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

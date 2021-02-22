@@ -1,0 +1,11 @@
+{
+    "departamento": "Usulut\u00e1n",
+    "municipio": "Santa Elena",
+    "img_municipio": "static\/images\/municipios\/USULUTAN\/santaelena_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

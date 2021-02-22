@@ -1,0 +1,11 @@
+{
+    "departamento": "La Paz",
+    "municipio": "Mercedes La Ceiba",
+    "img_municipio": "static\/images\/municipios\/LA PAZ\/mercedeslaceiba_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

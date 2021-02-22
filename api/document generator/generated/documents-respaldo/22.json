@@ -1,0 +1,11 @@
+{
+    "departamento": "Chalatenango",
+    "municipio": "Agua Caliente",
+    "img_municipio": "static\/images\/municipios\/CHALATENANGO\/aguacaliente_map.svg",
+    "ganador": {
+        "partido": null,
+        "img_partido": "resources\/banderas\/art_flag.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}

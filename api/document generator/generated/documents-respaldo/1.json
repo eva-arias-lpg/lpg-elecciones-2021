@@ -1,0 +1,11 @@
+{
+    "departamento": "AHUACHAPAN",
+    "municipio": "Ahuachap\u00e1n",
+    "img_municipio": "static\/images\/municipios\/AHUACHAPAN\/ahuachapan_map.svg",
+    "ganador": {
+        "partido": "ARENA",
+        "img_partido": "resources\/banderas\/1613637537.svg",
+        "id_partido": null,
+        "candidato": null
+    }
+}
