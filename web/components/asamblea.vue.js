@@ -7,7 +7,7 @@ let Asamblea = {
           Asegúrate de guardar tus cambios antes de salir de la página
         </p>
         <hr />
-        <div class="field column ">
+        <div class="field column">
           <label class="label">PORCENTAJE DE ESCRUTINIO</label>
           <div class="control">
             <input
